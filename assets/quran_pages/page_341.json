@@ -1,0 +1,146 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 341,
+    "ayahs": [
+      {
+        "number": 2668,
+        "text": "یَـٰۤأَیُّهَا ٱلنَّاسُ ضُرِبَ مَثَلࣱ فَٱسۡتَمِعُوا۟ لَهُۥۤۚ إِنَّ ٱلَّذِینَ تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن یَخۡلُقُوا۟ ذُبَابࣰا وَلَوِ ٱجۡتَمَعُوا۟ لَهُۥۖ وَإِن یَسۡلُبۡهُمُ ٱلذُّبَابُ شَیۡـࣰٔا لَّا یَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ وَٱلۡمَطۡلُوبُ\n",
+        "surah": {
+          "number": 22,
+          "name": "سُورَةُ الحَجِّ",
+          "englishName": "Al-Hajj",
+          "englishNameTranslation": "The Pilgrimage",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 78
+        },
+        "numberInSurah": 73,
+        "juz": 17,
+        "manzil": 4,
+        "page": 341,
+        "ruku": 294,
+        "hizbQuarter": 136,
+        "sajda": false
+      },
+      {
+        "number": 2669,
+        "text": "مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدۡرِهِۦۤۚ إِنَّ ٱللَّهَ لَقَوِیٌّ عَزِیزٌ\n",
+        "surah": {
+          "number": 22,
+          "name": "سُورَةُ الحَجِّ",
+          "englishName": "Al-Hajj",
+          "englishNameTranslation": "The Pilgrimage",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 78
+        },
+        "numberInSurah": 74,
+        "juz": 17,
+        "manzil": 4,
+        "page": 341,
+        "ruku": 294,
+        "hizbQuarter": 136,
+        "sajda": false
+      },
+      {
+        "number": 2670,
+        "text": "ٱللَّهُ یَصۡطَفِی مِنَ ٱلۡمَلَـٰۤىِٕكَةِ رُسُلࣰا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِیعُۢ بَصِیرࣱ\n",
+        "surah": {
+          "number": 22,
+          "name": "سُورَةُ الحَجِّ",
+          "englishName": "Al-Hajj",
+          "englishNameTranslation": "The Pilgrimage",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 78
+        },
+        "numberInSurah": 75,
+        "juz": 17,
+        "manzil": 4,
+        "page": 341,
+        "ruku": 294,
+        "hizbQuarter": 136,
+        "sajda": false
+      },
+      {
+        "number": 2671,
+        "text": "یَعۡلَمُ مَا بَیۡنَ أَیۡدِیهِمۡ وَمَا خَلۡفَهُمۡۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ\n",
+        "surah": {
+          "number": 22,
+          "name": "سُورَةُ الحَجِّ",
+          "englishName": "Al-Hajj",
+          "englishNameTranslation": "The Pilgrimage",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 78
+        },
+        "numberInSurah": 76,
+        "juz": 17,
+        "manzil": 4,
+        "page": 341,
+        "ruku": 294,
+        "hizbQuarter": 136,
+        "sajda": false
+      },
+      {
+        "number": 2672,
+        "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱرۡكَعُوا۟ وَٱسۡجُدُوا۟ وَٱعۡبُدُوا۟ رَبَّكُمۡ وَٱفۡعَلُوا۟ ٱلۡخَیۡرَ لَعَلَّكُمۡ تُفۡلِحُونَ \n",
+        "surah": {
+          "number": 22,
+          "name": "سُورَةُ الحَجِّ",
+          "englishName": "Al-Hajj",
+          "englishNameTranslation": "The Pilgrimage",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 78
+        },
+        "numberInSurah": 77,
+        "juz": 17,
+        "manzil": 4,
+        "page": 341,
+        "ruku": 294,
+        "hizbQuarter": 136,
+        "sajda": {
+          "id": 7,
+          "recommended": true,
+          "obligatory": false
+        }
+      },
+      {
+        "number": 2673,
+        "text": "وَجَـٰهِدُوا۟ فِی ٱللَّهِ حَقَّ جِهَادِهِۦۚ هُوَ ٱجۡتَبَىٰكُمۡ وَمَا جَعَلَ عَلَیۡكُمۡ فِی ٱلدِّینِ مِنۡ حَرَجࣲۚ مِّلَّةَ أَبِیكُمۡ إِبۡرَ ٰ⁠هِیمَۚ هُوَ سَمَّىٰكُمُ ٱلۡمُسۡلِمِینَ مِن قَبۡلُ وَفِی هَـٰذَا لِیَكُونَ ٱلرَّسُولُ شَهِیدًا عَلَیۡكُمۡ وَتَكُونُوا۟ شُهَدَاۤءَ عَلَى ٱلنَّاسِۚ فَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعۡتَصِمُوا۟ بِٱللَّهِ هُوَ مَوۡلَىٰكُمۡۖ فَنِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِیرُ\n",
+        "surah": {
+          "number": 22,
+          "name": "سُورَةُ الحَجِّ",
+          "englishName": "Al-Hajj",
+          "englishNameTranslation": "The Pilgrimage",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 78
+        },
+        "numberInSurah": 78,
+        "juz": 17,
+        "manzil": 4,
+        "page": 341,
+        "ruku": 294,
+        "hizbQuarter": 136,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "22": {
+        "number": 22,
+        "name": "سُورَةُ الحَجِّ",
+        "englishName": "Al-Hajj",
+        "englishNameTranslation": "The Pilgrimage",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 78
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 498,
+    "ayahs": [
+      {
+        "number": 4454,
+        "text": "إِنَّ یَوۡمَ ٱلۡفَصۡلِ مِیقَـٰتُهُمۡ أَجۡمَعِینَ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 40,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 432,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4455,
+        "text": "یَوۡمَ لَا یُغۡنِی مَوۡلًى عَن مَّوۡلࣰى شَیۡـࣰٔا وَلَا هُمۡ یُنصَرُونَ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 41,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 432,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4456,
+        "text": "إِلَّا مَن رَّحِمَ ٱللَّهُۚ إِنَّهُۥ هُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 42,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 432,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4457,
+        "text": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 43,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4458,
+        "text": "طَعَامُ ٱلۡأَثِیمِ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 44,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4459,
+        "text": "كَٱلۡمُهۡلِ یَغۡلِی فِی ٱلۡبُطُونِ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 45,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4460,
+        "text": "كَغَلۡیِ ٱلۡحَمِیمِ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 46,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4461,
+        "text": "خُذُوهُ فَٱعۡتِلُوهُ إِلَىٰ سَوَاۤءِ ٱلۡجَحِیمِ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 47,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4462,
+        "text": "ثُمَّ صُبُّوا۟ فَوۡقَ رَأۡسِهِۦ مِنۡ عَذَابِ ٱلۡحَمِیمِ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 48,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4463,
+        "text": "ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِیزُ ٱلۡكَرِیمُ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 49,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4464,
+        "text": "إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمۡتَرُونَ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 50,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4465,
+        "text": "إِنَّ ٱلۡمُتَّقِینَ فِی مَقَامٍ أَمِینࣲ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 51,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4466,
+        "text": "فِی جَنَّـٰتࣲ وَعُیُونࣲ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 52,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4467,
+        "text": "یَلۡبَسُونَ مِن سُندُسࣲ وَإِسۡتَبۡرَقࣲ مُّتَقَـٰبِلِینَ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 53,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4468,
+        "text": "كَذَ ٰ⁠لِكَ وَزَوَّجۡنَـٰهُم بِحُورٍ عِینࣲ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 54,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4469,
+        "text": "یَدۡعُونَ فِیهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِینَ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 55,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4470,
+        "text": "لَا یَذُوقُونَ فِیهَا ٱلۡمَوۡتَ إِلَّا ٱلۡمَوۡتَةَ ٱلۡأُولَىٰۖ وَوَقَىٰهُمۡ عَذَابَ ٱلۡجَحِیمِ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 56,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4471,
+        "text": "فَضۡلࣰا مِّن رَّبِّكَۚ ذَ ٰ⁠لِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 57,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4472,
+        "text": "فَإِنَّمَا یَسَّرۡنَـٰهُ بِلِسَانِكَ لَعَلَّهُمۡ یَتَذَكَّرُونَ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 58,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      },
+      {
+        "number": 4473,
+        "text": "فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ\n",
+        "surah": {
+          "number": 44,
+          "name": "سُورَةُ الدُّخَانِ",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 59
+        },
+        "numberInSurah": 59,
+        "juz": 25,
+        "manzil": 6,
+        "page": 498,
+        "ruku": 433,
+        "hizbQuarter": 199,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "44": {
+        "number": 44,
+        "name": "سُورَةُ الدُّخَانِ",
+        "englishName": "Ad-Dukhaan",
+        "englishNameTranslation": "The Smoke",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 59
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

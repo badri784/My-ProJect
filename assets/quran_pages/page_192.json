@@ -1,0 +1,123 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 192,
+    "ayahs": [
+      {
+        "number": 1267,
+        "text": "یُرِیدُونَ أَن یُطۡفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفۡوَ ٰ⁠هِهِمۡ وَیَأۡبَى ٱللَّهُ إِلَّاۤ أَن یُتِمَّ نُورَهُۥ وَلَوۡ كَرِهَ ٱلۡكَـٰفِرُونَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 32,
+        "juz": 10,
+        "manzil": 2,
+        "page": 192,
+        "ruku": 160,
+        "hizbQuarter": 76,
+        "sajda": false
+      },
+      {
+        "number": 1268,
+        "text": "هُوَ ٱلَّذِیۤ أَرۡسَلَ رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِینِ ٱلۡحَقِّ لِیُظۡهِرَهُۥ عَلَى ٱلدِّینِ كُلِّهِۦ وَلَوۡ كَرِهَ ٱلۡمُشۡرِكُونَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 33,
+        "juz": 10,
+        "manzil": 2,
+        "page": 192,
+        "ruku": 160,
+        "hizbQuarter": 76,
+        "sajda": false
+      },
+      {
+        "number": 1269,
+        "text": "۞ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِنَّ كَثِیرࣰا مِّنَ ٱلۡأَحۡبَارِ وَٱلرُّهۡبَانِ لَیَأۡكُلُونَ أَمۡوَ ٰ⁠لَ ٱلنَّاسِ بِٱلۡبَـٰطِلِ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِۗ وَٱلَّذِینَ یَكۡنِزُونَ ٱلذَّهَبَ وَٱلۡفِضَّةَ وَلَا یُنفِقُونَهَا فِی سَبِیلِ ٱللَّهِ فَبَشِّرۡهُم بِعَذَابٍ أَلِیمࣲ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 34,
+        "juz": 10,
+        "manzil": 2,
+        "page": 192,
+        "ruku": 160,
+        "hizbQuarter": 77,
+        "sajda": false
+      },
+      {
+        "number": 1270,
+        "text": "یَوۡمَ یُحۡمَىٰ عَلَیۡهَا فِی نَارِ جَهَنَّمَ فَتُكۡوَىٰ بِهَا جِبَاهُهُمۡ وَجُنُوبُهُمۡ وَظُهُورُهُمۡۖ هَـٰذَا مَا كَنَزۡتُمۡ لِأَنفُسِكُمۡ فَذُوقُوا۟ مَا كُنتُمۡ تَكۡنِزُونَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 35,
+        "juz": 10,
+        "manzil": 2,
+        "page": 192,
+        "ruku": 160,
+        "hizbQuarter": 77,
+        "sajda": false
+      },
+      {
+        "number": 1271,
+        "text": "إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثۡنَا عَشَرَ شَهۡرࣰا فِی كِتَـٰبِ ٱللَّهِ یَوۡمَ خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ مِنۡهَاۤ أَرۡبَعَةٌ حُرُمࣱۚ ذَ ٰ⁠لِكَ ٱلدِّینُ ٱلۡقَیِّمُۚ فَلَا تَظۡلِمُوا۟ فِیهِنَّ أَنفُسَكُمۡۚ وَقَـٰتِلُوا۟ ٱلۡمُشۡرِكِینَ كَاۤفَّةࣰ كَمَا یُقَـٰتِلُونَكُمۡ كَاۤفَّةࣰۚ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِینَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 36,
+        "juz": 10,
+        "manzil": 2,
+        "page": 192,
+        "ruku": 160,
+        "hizbQuarter": 77,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "9": {
+        "number": 9,
+        "name": "سُورَةُ التَّوۡبَةِ",
+        "englishName": "At-Tawba",
+        "englishNameTranslation": "The Repentance",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 129
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

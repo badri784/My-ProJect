@@ -1,0 +1,275 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 487,
+    "ayahs": [
+      {
+        "number": 4304,
+        "text": "وَمِنۡ ءَایَـٰتِهِ ٱلۡجَوَارِ فِی ٱلۡبَحۡرِ كَٱلۡأَعۡلَـٰمِ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 32,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4305,
+        "text": "إِن یَشَأۡ یُسۡكِنِ ٱلرِّیحَ فَیَظۡلَلۡنَ رَوَاكِدَ عَلَىٰ ظَهۡرِهِۦۤۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّكُلِّ صَبَّارࣲ شَكُورٍ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 33,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4306,
+        "text": "أَوۡ یُوبِقۡهُنَّ بِمَا كَسَبُوا۟ وَیَعۡفُ عَن كَثِیرࣲ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 34,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4307,
+        "text": "وَیَعۡلَمَ ٱلَّذِینَ یُجَـٰدِلُونَ فِیۤ ءَایَـٰتِنَا مَا لَهُم مِّن مَّحِیصࣲ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 35,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4308,
+        "text": "فَمَاۤ أُوتِیتُم مِّن شَیۡءࣲ فَمَتَـٰعُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۚ وَمَا عِندَ ٱللَّهِ خَیۡرࣱ وَأَبۡقَىٰ لِلَّذِینَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 36,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4309,
+        "text": "وَٱلَّذِینَ یَجۡتَنِبُونَ كَبَـٰۤىِٕرَ ٱلۡإِثۡمِ وَٱلۡفَوَ ٰ⁠حِشَ وَإِذَا مَا غَضِبُوا۟ هُمۡ یَغۡفِرُونَ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 37,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4310,
+        "text": "وَٱلَّذِینَ ٱسۡتَجَابُوا۟ لِرَبِّهِمۡ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمۡرُهُمۡ شُورَىٰ بَیۡنَهُمۡ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 38,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4311,
+        "text": "وَٱلَّذِینَ إِذَاۤ أَصَابَهُمُ ٱلۡبَغۡیُ هُمۡ یَنتَصِرُونَ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 39,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4312,
+        "text": "وَجَزَ ٰ⁠ۤؤُا۟ سَیِّئَةࣲ سَیِّئَةࣱ مِّثۡلُهَاۖ فَمَنۡ عَفَا وَأَصۡلَحَ فَأَجۡرُهُۥ عَلَى ٱللَّهِۚ إِنَّهُۥ لَا یُحِبُّ ٱلظَّـٰلِمِینَ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 40,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4313,
+        "text": "وَلَمَنِ ٱنتَصَرَ بَعۡدَ ظُلۡمِهِۦ فَأُو۟لَـٰۤىِٕكَ مَا عَلَیۡهِم مِّن سَبِیلٍ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 41,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4314,
+        "text": "إِنَّمَا ٱلسَّبِیلُ عَلَى ٱلَّذِینَ یَظۡلِمُونَ ٱلنَّاسَ وَیَبۡغُونَ فِی ٱلۡأَرۡضِ بِغَیۡرِ ٱلۡحَقِّۚ أُو۟لَـٰۤىِٕكَ لَهُمۡ عَذَابٌ أَلِیمࣱ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 42,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4315,
+        "text": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَ ٰ⁠لِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 43,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 422,
+        "hizbQuarter": 195,
+        "sajda": false
+      },
+      {
+        "number": 4316,
+        "text": "وَمَن یُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِیࣲّ مِّنۢ بَعۡدِهِۦۗ وَتَرَى ٱلظَّـٰلِمِینَ لَمَّا رَأَوُا۟ ٱلۡعَذَابَ یَقُولُونَ هَلۡ إِلَىٰ مَرَدࣲّ مِّن سَبِیلࣲ\n",
+        "surah": {
+          "number": 42,
+          "name": "سُورَةُ الشُّورَىٰ",
+          "englishName": "Ash-Shura",
+          "englishNameTranslation": "Consultation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 53
+        },
+        "numberInSurah": 44,
+        "juz": 25,
+        "manzil": 6,
+        "page": 487,
+        "ruku": 423,
+        "hizbQuarter": 195,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "42": {
+        "number": 42,
+        "name": "سُورَةُ الشُّورَىٰ",
+        "englishName": "Ash-Shura",
+        "englishNameTranslation": "Consultation",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 53
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

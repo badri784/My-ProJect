@@ -1,0 +1,538 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 596,
+    "ayahs": [
+      {
+        "number": 6073,
+        "text": "لَا یَصۡلَىٰهَاۤ إِلَّا ٱلۡأَشۡقَى\n",
+        "surah": {
+          "number": 92,
+          "name": "سُورَةُ اللَّيۡلِ",
+          "englishName": "Al-Lail",
+          "englishNameTranslation": "The Night",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 21
+        },
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6074,
+        "text": "ٱلَّذِی كَذَّبَ وَتَوَلَّىٰ\n",
+        "surah": {
+          "number": 92,
+          "name": "سُورَةُ اللَّيۡلِ",
+          "englishName": "Al-Lail",
+          "englishNameTranslation": "The Night",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 21
+        },
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6075,
+        "text": "وَسَیُجَنَّبُهَا ٱلۡأَتۡقَى\n",
+        "surah": {
+          "number": 92,
+          "name": "سُورَةُ اللَّيۡلِ",
+          "englishName": "Al-Lail",
+          "englishNameTranslation": "The Night",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 21
+        },
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6076,
+        "text": "ٱلَّذِی یُؤۡتِی مَالَهُۥ یَتَزَكَّىٰ\n",
+        "surah": {
+          "number": 92,
+          "name": "سُورَةُ اللَّيۡلِ",
+          "englishName": "Al-Lail",
+          "englishNameTranslation": "The Night",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 21
+        },
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6077,
+        "text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةࣲ تُجۡزَىٰۤ\n",
+        "surah": {
+          "number": 92,
+          "name": "سُورَةُ اللَّيۡلِ",
+          "englishName": "Al-Lail",
+          "englishNameTranslation": "The Night",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 21
+        },
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6078,
+        "text": "إِلَّا ٱبۡتِغَاۤءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ\n",
+        "surah": {
+          "number": 92,
+          "name": "سُورَةُ اللَّيۡلِ",
+          "englishName": "Al-Lail",
+          "englishNameTranslation": "The Night",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 21
+        },
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6079,
+        "text": "وَلَسَوۡفَ یَرۡضَىٰ\n",
+        "surah": {
+          "number": 92,
+          "name": "سُورَةُ اللَّيۡلِ",
+          "englishName": "Al-Lail",
+          "englishNameTranslation": "The Night",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 21
+        },
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 534,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6080,
+        "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ وَٱلضُّحَىٰ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6081,
+        "text": "وَٱلَّیۡلِ إِذَا سَجَىٰ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6082,
+        "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6083,
+        "text": "وَلَلۡـَٔاخِرَةُ خَیۡرࣱ لَّكَ مِنَ ٱلۡأُولَىٰ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6084,
+        "text": "وَلَسَوۡفَ یُعۡطِیكَ رَبُّكَ فَتَرۡضَىٰۤ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6085,
+        "text": "أَلَمۡ یَجِدۡكَ یَتِیمࣰا فَـَٔاوَىٰ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6086,
+        "text": "وَوَجَدَكَ ضَاۤلࣰّا فَهَدَىٰ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6087,
+        "text": "وَوَجَدَكَ عَاۤىِٕلࣰا فَأَغۡنَىٰ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6088,
+        "text": "فَأَمَّا ٱلۡیَتِیمَ فَلَا تَقۡهَرۡ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6089,
+        "text": "وَأَمَّا ٱلسَّاۤىِٕلَ فَلَا تَنۡهَرۡ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6090,
+        "text": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ\n",
+        "surah": {
+          "number": 93,
+          "name": "سُورَةُ الضُّحَىٰ",
+          "englishName": "Ad-Dhuhaa",
+          "englishNameTranslation": "The Morning Hours",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 11
+        },
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 535,
+        "hizbQuarter": 238,
+        "sajda": false
+      },
+      {
+        "number": 6091,
+        "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ\n",
+        "surah": {
+          "number": 94,
+          "name": "سُورَةُ الشَّرۡحِ",
+          "englishName": "Ash-Sharh",
+          "englishNameTranslation": "The Consolation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 8
+        },
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6092,
+        "text": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ\n",
+        "surah": {
+          "number": 94,
+          "name": "سُورَةُ الشَّرۡحِ",
+          "englishName": "Ash-Sharh",
+          "englishNameTranslation": "The Consolation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 8
+        },
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6093,
+        "text": "ٱلَّذِیۤ أَنقَضَ ظَهۡرَكَ\n",
+        "surah": {
+          "number": 94,
+          "name": "سُورَةُ الشَّرۡحِ",
+          "englishName": "Ash-Sharh",
+          "englishNameTranslation": "The Consolation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 8
+        },
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6094,
+        "text": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ\n",
+        "surah": {
+          "number": 94,
+          "name": "سُورَةُ الشَّرۡحِ",
+          "englishName": "Ash-Sharh",
+          "englishNameTranslation": "The Consolation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 8
+        },
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6095,
+        "text": "فَإِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرًا\n",
+        "surah": {
+          "number": 94,
+          "name": "سُورَةُ الشَّرۡحِ",
+          "englishName": "Ash-Sharh",
+          "englishNameTranslation": "The Consolation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 8
+        },
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6096,
+        "text": "إِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرࣰا\n",
+        "surah": {
+          "number": 94,
+          "name": "سُورَةُ الشَّرۡحِ",
+          "englishName": "Ash-Sharh",
+          "englishNameTranslation": "The Consolation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 8
+        },
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6097,
+        "text": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ\n",
+        "surah": {
+          "number": 94,
+          "name": "سُورَةُ الشَّرۡحِ",
+          "englishName": "Ash-Sharh",
+          "englishNameTranslation": "The Consolation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 8
+        },
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6098,
+        "text": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب\n",
+        "surah": {
+          "number": 94,
+          "name": "سُورَةُ الشَّرۡحِ",
+          "englishName": "Ash-Sharh",
+          "englishNameTranslation": "The Consolation",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 8
+        },
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 596,
+        "ruku": 536,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "92": {
+        "number": 92,
+        "name": "سُورَةُ اللَّيۡلِ",
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 21
+      },
+      "93": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 11
+      },
+      "94": {
+        "number": 94,
+        "name": "سُورَةُ الشَّرۡحِ",
+        "englishName": "Ash-Sharh",
+        "englishNameTranslation": "The Consolation",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 8
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

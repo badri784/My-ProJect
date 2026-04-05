@@ -1,0 +1,199 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 50,
+    "ayahs": [
+      {
+        "number": 294,
+        "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ الۤمۤ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 1,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 295,
+        "text": "ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡحَیُّ ٱلۡقَیُّومُ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 2,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 296,
+        "text": "نَزَّلَ عَلَیۡكَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ مُصَدِّقࣰا لِّمَا بَیۡنَ یَدَیۡهِ وَأَنزَلَ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 3,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 297,
+        "text": "مِن قَبۡلُ هُدࣰى لِّلنَّاسِ وَأَنزَلَ ٱلۡفُرۡقَانَۗ إِنَّ ٱلَّذِینَ كَفَرُوا۟ بِـَٔایَـٰتِ ٱللَّهِ لَهُمۡ عَذَابࣱ شَدِیدࣱۗ وَٱللَّهُ عَزِیزࣱ ذُو ٱنتِقَامٍ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 4,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 298,
+        "text": "إِنَّ ٱللَّهَ لَا یَخۡفَىٰ عَلَیۡهِ شَیۡءࣱ فِی ٱلۡأَرۡضِ وَلَا فِی ٱلسَّمَاۤءِ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 5,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 299,
+        "text": "هُوَ ٱلَّذِی یُصَوِّرُكُمۡ فِی ٱلۡأَرۡحَامِ كَیۡفَ یَشَاۤءُۚ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 6,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 300,
+        "text": "هُوَ ٱلَّذِیۤ أَنزَلَ عَلَیۡكَ ٱلۡكِتَـٰبَ مِنۡهُ ءَایَـٰتࣱ مُّحۡكَمَـٰتٌ هُنَّ أُمُّ ٱلۡكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتࣱۖ فَأَمَّا ٱلَّذِینَ فِی قُلُوبِهِمۡ زَیۡغࣱ فَیَتَّبِعُونَ مَا تَشَـٰبَهَ مِنۡهُ ٱبۡتِغَاۤءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَاۤءَ تَأۡوِیلِهِۦۖ وَمَا یَعۡلَمُ تَأۡوِیلَهُۥۤ إِلَّا ٱللَّهُۗ وَٱلرَّ ٰ⁠سِخُونَ فِی ٱلۡعِلۡمِ یَقُولُونَ ءَامَنَّا بِهِۦ كُلࣱّ مِّنۡ عِندِ رَبِّنَاۗ وَمَا یَذَّكَّرُ إِلَّاۤ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 7,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 301,
+        "text": "رَبَّنَا لَا تُزِغۡ قُلُوبَنَا بَعۡدَ إِذۡ هَدَیۡتَنَا وَهَبۡ لَنَا مِن لَّدُنكَ رَحۡمَةًۚ إِنَّكَ أَنتَ ٱلۡوَهَّابُ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 8,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 302,
+        "text": "رَبَّنَاۤ إِنَّكَ جَامِعُ ٱلنَّاسِ لِیَوۡمࣲ لَّا رَیۡبَ فِیهِۚ إِنَّ ٱللَّهَ لَا یُخۡلِفُ ٱلۡمِیعَادَ\n",
+        "surah": {
+          "number": 3,
+          "name": "سُورَةُ آلِ عِمۡرَانَ",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 200
+        },
+        "numberInSurah": 9,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "3": {
+        "number": 3,
+        "name": "سُورَةُ آلِ عِمۡرَانَ",
+        "englishName": "Aal-i-Imraan",
+        "englishNameTranslation": "The Family of Imraan",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 200
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

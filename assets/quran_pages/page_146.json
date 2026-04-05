@@ -1,0 +1,123 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 146,
+    "ayahs": [
+      {
+        "number": 927,
+        "text": "وَقَالُوا۟ هَـٰذِهِۦۤ أَنۡعَـٰمࣱ وَحَرۡثٌ حِجۡرࣱ لَّا یَطۡعَمُهَاۤ إِلَّا مَن نَّشَاۤءُ بِزَعۡمِهِمۡ وَأَنۡعَـٰمٌ حُرِّمَتۡ ظُهُورُهَا وَأَنۡعَـٰمࣱ لَّا یَذۡكُرُونَ ٱسۡمَ ٱللَّهِ عَلَیۡهَا ٱفۡتِرَاۤءً عَلَیۡهِۚ سَیَجۡزِیهِم بِمَا كَانُوا۟ یَفۡتَرُونَ\n",
+        "surah": {
+          "number": 6,
+          "name": "سُورَةُ الأَنۡعَامِ",
+          "englishName": "Al-An'aam",
+          "englishNameTranslation": "The Cattle",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 165
+        },
+        "numberInSurah": 138,
+        "juz": 8,
+        "manzil": 2,
+        "page": 146,
+        "ruku": 117,
+        "hizbQuarter": 58,
+        "sajda": false
+      },
+      {
+        "number": 928,
+        "text": "وَقَالُوا۟ مَا فِی بُطُونِ هَـٰذِهِ ٱلۡأَنۡعَـٰمِ خَالِصَةࣱ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰۤ أَزۡوَ ٰ⁠جِنَاۖ وَإِن یَكُن مَّیۡتَةࣰ فَهُمۡ فِیهِ شُرَكَاۤءُۚ سَیَجۡزِیهِمۡ وَصۡفَهُمۡۚ إِنَّهُۥ حَكِیمٌ عَلِیمࣱ\n",
+        "surah": {
+          "number": 6,
+          "name": "سُورَةُ الأَنۡعَامِ",
+          "englishName": "Al-An'aam",
+          "englishNameTranslation": "The Cattle",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 165
+        },
+        "numberInSurah": 139,
+        "juz": 8,
+        "manzil": 2,
+        "page": 146,
+        "ruku": 117,
+        "hizbQuarter": 58,
+        "sajda": false
+      },
+      {
+        "number": 929,
+        "text": "قَدۡ خَسِرَ ٱلَّذِینَ قَتَلُوۤا۟ أَوۡلَـٰدَهُمۡ سَفَهَۢا بِغَیۡرِ عِلۡمࣲ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفۡتِرَاۤءً عَلَى ٱللَّهِۚ قَدۡ ضَلُّوا۟ وَمَا كَانُوا۟ مُهۡتَدِینَ\n",
+        "surah": {
+          "number": 6,
+          "name": "سُورَةُ الأَنۡعَامِ",
+          "englishName": "Al-An'aam",
+          "englishNameTranslation": "The Cattle",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 165
+        },
+        "numberInSurah": 140,
+        "juz": 8,
+        "manzil": 2,
+        "page": 146,
+        "ruku": 117,
+        "hizbQuarter": 58,
+        "sajda": false
+      },
+      {
+        "number": 930,
+        "text": "۞ وَهُوَ ٱلَّذِیۤ أَنشَأَ جَنَّـٰتࣲ مَّعۡرُوشَـٰتࣲ وَغَیۡرَ مَعۡرُوشَـٰتࣲ وَٱلنَّخۡلَ وَٱلزَّرۡعَ مُخۡتَلِفًا أُكُلُهُۥ وَٱلزَّیۡتُونَ وَٱلرُّمَّانَ مُتَشَـٰبِهࣰا وَغَیۡرَ مُتَشَـٰبِهࣲۚ كُلُوا۟ مِن ثَمَرِهِۦۤ إِذَاۤ أَثۡمَرَ وَءَاتُوا۟ حَقَّهُۥ یَوۡمَ حَصَادِهِۦۖ وَلَا تُسۡرِفُوۤا۟ۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُسۡرِفِینَ\n",
+        "surah": {
+          "number": 6,
+          "name": "سُورَةُ الأَنۡعَامِ",
+          "englishName": "Al-An'aam",
+          "englishNameTranslation": "The Cattle",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 165
+        },
+        "numberInSurah": 141,
+        "juz": 8,
+        "manzil": 2,
+        "page": 146,
+        "ruku": 118,
+        "hizbQuarter": 59,
+        "sajda": false
+      },
+      {
+        "number": 931,
+        "text": "وَمِنَ ٱلۡأَنۡعَـٰمِ حَمُولَةࣰ وَفَرۡشࣰاۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَ ٰ⁠تِ ٱلشَّیۡطَـٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِینࣱ\n",
+        "surah": {
+          "number": 6,
+          "name": "سُورَةُ الأَنۡعَامِ",
+          "englishName": "Al-An'aam",
+          "englishNameTranslation": "The Cattle",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 165
+        },
+        "numberInSurah": 142,
+        "juz": 8,
+        "manzil": 2,
+        "page": 146,
+        "ruku": 118,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "6": {
+        "number": 6,
+        "name": "سُورَةُ الأَنۡعَامِ",
+        "englishName": "Al-An'aam",
+        "englishNameTranslation": "The Cattle",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 165
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

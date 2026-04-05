@@ -1,0 +1,199 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 473,
+    "ayahs": [
+      {
+        "number": 4183,
+        "text": "قَالُوۤا۟ أَوَلَمۡ تَكُ تَأۡتِیكُمۡ رُسُلُكُم بِٱلۡبَیِّنَـٰتِۖ قَالُوا۟ بَلَىٰۚ قَالُوا۟ فَٱدۡعُوا۟ۗ وَمَا دُعَـٰۤؤُا۟ ٱلۡكَـٰفِرِینَ إِلَّا فِی ضَلَـٰلٍ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 50,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 408,
+        "hizbQuarter": 189,
+        "sajda": false
+      },
+      {
+        "number": 4184,
+        "text": "إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِینَ ءَامَنُوا۟ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَا وَیَوۡمَ یَقُومُ ٱلۡأَشۡهَـٰدُ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 51,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 409,
+        "hizbQuarter": 189,
+        "sajda": false
+      },
+      {
+        "number": 4185,
+        "text": "یَوۡمَ لَا یَنفَعُ ٱلظَّـٰلِمِینَ مَعۡذِرَتُهُمۡۖ وَلَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوۤءُ ٱلدَّارِ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 52,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 409,
+        "hizbQuarter": 189,
+        "sajda": false
+      },
+      {
+        "number": 4186,
+        "text": "وَلَقَدۡ ءَاتَیۡنَا مُوسَى ٱلۡهُدَىٰ وَأَوۡرَثۡنَا بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ ٱلۡكِتَـٰبَ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 53,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 409,
+        "hizbQuarter": 189,
+        "sajda": false
+      },
+      {
+        "number": 4187,
+        "text": "هُدࣰى وَذِكۡرَىٰ لِأُو۟لِی ٱلۡأَلۡبَـٰبِ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 54,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 409,
+        "hizbQuarter": 189,
+        "sajda": false
+      },
+      {
+        "number": 4188,
+        "text": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقࣱّ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ بِٱلۡعَشِیِّ وَٱلۡإِبۡكَـٰرِ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 55,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 409,
+        "hizbQuarter": 189,
+        "sajda": false
+      },
+      {
+        "number": 4189,
+        "text": "إِنَّ ٱلَّذِینَ یُجَـٰدِلُونَ فِیۤ ءَایَـٰتِ ٱللَّهِ بِغَیۡرِ سُلۡطَـٰنٍ أَتَىٰهُمۡ إِن فِی صُدُورِهِمۡ إِلَّا كِبۡرࣱ مَّا هُم بِبَـٰلِغِیهِۚ فَٱسۡتَعِذۡ بِٱللَّهِۖ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡبَصِیرُ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 56,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 409,
+        "hizbQuarter": 189,
+        "sajda": false
+      },
+      {
+        "number": 4190,
+        "text": "لَخَلۡقُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ أَكۡبَرُ مِنۡ خَلۡقِ ٱلنَّاسِ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَعۡلَمُونَ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 57,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 409,
+        "hizbQuarter": 189,
+        "sajda": false
+      },
+      {
+        "number": 4191,
+        "text": "وَمَا یَسۡتَوِی ٱلۡأَعۡمَىٰ وَٱلۡبَصِیرُ وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَلَا ٱلۡمُسِیۤءُۚ قَلِیلࣰا مَّا تَتَذَكَّرُونَ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 58,
+        "juz": 24,
+        "manzil": 6,
+        "page": 473,
+        "ruku": 409,
+        "hizbQuarter": 189,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "40": {
+        "number": 40,
+        "name": "سُورَةُ غَافِرٍ",
+        "englishName": "Ghafir",
+        "englishNameTranslation": "The Forgiver",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 85
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

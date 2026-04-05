@@ -1,0 +1,351 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 342,
+    "ayahs": [
+      {
+        "number": 2674,
+        "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 1,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2675,
+        "text": "ٱلَّذِینَ هُمۡ فِی صَلَاتِهِمۡ خَـٰشِعُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 2,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2676,
+        "text": "وَٱلَّذِینَ هُمۡ عَنِ ٱللَّغۡوِ مُعۡرِضُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 3,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2677,
+        "text": "وَٱلَّذِینَ هُمۡ لِلزَّكَوٰةِ فَـٰعِلُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 4,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2678,
+        "text": "وَٱلَّذِینَ هُمۡ لِفُرُوجِهِمۡ حَـٰفِظُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 5,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2679,
+        "text": "إِلَّا عَلَىٰۤ أَزۡوَ ٰ⁠جِهِمۡ أَوۡ مَا مَلَكَتۡ أَیۡمَـٰنُهُمۡ فَإِنَّهُمۡ غَیۡرُ مَلُومِینَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 6,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2680,
+        "text": "فَمَنِ ٱبۡتَغَىٰ وَرَاۤءَ ذَ ٰ⁠لِكَ فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡعَادُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 7,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2681,
+        "text": "وَٱلَّذِینَ هُمۡ لِأَمَـٰنَـٰتِهِمۡ وَعَهۡدِهِمۡ رَ ٰ⁠عُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 8,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2682,
+        "text": "وَٱلَّذِینَ هُمۡ عَلَىٰ صَلَوَ ٰ⁠تِهِمۡ یُحَافِظُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 9,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2683,
+        "text": "أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡوَ ٰ⁠رِثُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 10,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2684,
+        "text": "ٱلَّذِینَ یَرِثُونَ ٱلۡفِرۡدَوۡسَ هُمۡ فِیهَا خَـٰلِدُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 11,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2685,
+        "text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ مِن سُلَـٰلَةࣲ مِّن طِینࣲ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 12,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2686,
+        "text": "ثُمَّ جَعَلۡنَـٰهُ نُطۡفَةࣰ فِی قَرَارࣲ مَّكِینࣲ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 13,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2687,
+        "text": "ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةࣰ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةࣰ فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَـٰمࣰا فَكَسَوۡنَا ٱلۡعِظَـٰمَ لَحۡمࣰا ثُمَّ أَنشَأۡنَـٰهُ خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَـٰلِقِینَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 14,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2688,
+        "text": "ثُمَّ إِنَّكُم بَعۡدَ ذَ ٰ⁠لِكَ لَمَیِّتُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 15,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2689,
+        "text": "ثُمَّ إِنَّكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ تُبۡعَثُونَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 16,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2690,
+        "text": "وَلَقَدۡ خَلَقۡنَا فَوۡقَكُمۡ سَبۡعَ طَرَاۤىِٕقَ وَمَا كُنَّا عَنِ ٱلۡخَلۡقِ غَـٰفِلِینَ\n",
+        "surah": {
+          "number": 23,
+          "name": "سُورَةُ المُؤۡمِنُونَ",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 118
+        },
+        "numberInSurah": 17,
+        "juz": 18,
+        "manzil": 4,
+        "page": 342,
+        "ruku": 295,
+        "hizbQuarter": 137,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "23": {
+        "number": 23,
+        "name": "سُورَةُ المُؤۡمِنُونَ",
+        "englishName": "Al-Muminoon",
+        "englishNameTranslation": "The Believers",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 118
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

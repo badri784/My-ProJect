@@ -1,0 +1,199 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 246,
+    "ayahs": [
+      {
+        "number": 1683,
+        "text": "یَـٰبَنِیَّ ٱذۡهَبُوا۟ فَتَحَسَّسُوا۟ مِن یُوسُفَ وَأَخِیهِ وَلَا تَا۟یۡـَٔسُوا۟ مِن رَّوۡحِ ٱللَّهِۖ إِنَّهُۥ لَا یَا۟یۡـَٔسُ مِن رَّوۡحِ ٱللَّهِ إِلَّا ٱلۡقَوۡمُ ٱلۡكَـٰفِرُونَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 87,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 202,
+        "hizbQuarter": 98,
+        "sajda": false
+      },
+      {
+        "number": 1684,
+        "text": "فَلَمَّا دَخَلُوا۟ عَلَیۡهِ قَالُوا۟ یَـٰۤأَیُّهَا ٱلۡعَزِیزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَـٰعَةࣲ مُّزۡجَىٰةࣲ فَأَوۡفِ لَنَا ٱلۡكَیۡلَ وَتَصَدَّقۡ عَلَیۡنَاۤۖ إِنَّ ٱللَّهَ یَجۡزِی ٱلۡمُتَصَدِّقِینَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 88,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 202,
+        "hizbQuarter": 98,
+        "sajda": false
+      },
+      {
+        "number": 1685,
+        "text": "قَالَ هَلۡ عَلِمۡتُم مَّا فَعَلۡتُم بِیُوسُفَ وَأَخِیهِ إِذۡ أَنتُمۡ جَـٰهِلُونَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 89,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 202,
+        "hizbQuarter": 98,
+        "sajda": false
+      },
+      {
+        "number": 1686,
+        "text": "قَالُوۤا۟ أَءِنَّكَ لَأَنتَ یُوسُفُۖ قَالَ أَنَا۠ یُوسُفُ وَهَـٰذَاۤ أَخِیۖ قَدۡ مَنَّ ٱللَّهُ عَلَیۡنَاۤۖ إِنَّهُۥ مَن یَتَّقِ وَیَصۡبِرۡ فَإِنَّ ٱللَّهَ لَا یُضِیعُ أَجۡرَ ٱلۡمُحۡسِنِینَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 90,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 202,
+        "hizbQuarter": 98,
+        "sajda": false
+      },
+      {
+        "number": 1687,
+        "text": "قَالُوا۟ تَٱللَّهِ لَقَدۡ ءَاثَرَكَ ٱللَّهُ عَلَیۡنَا وَإِن كُنَّا لَخَـٰطِـِٔینَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 91,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 202,
+        "hizbQuarter": 98,
+        "sajda": false
+      },
+      {
+        "number": 1688,
+        "text": "قَالَ لَا تَثۡرِیبَ عَلَیۡكُمُ ٱلۡیَوۡمَۖ یَغۡفِرُ ٱللَّهُ لَكُمۡۖ وَهُوَ أَرۡحَمُ ٱلرَّ ٰ⁠حِمِینَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 92,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 202,
+        "hizbQuarter": 98,
+        "sajda": false
+      },
+      {
+        "number": 1689,
+        "text": "ٱذۡهَبُوا۟ بِقَمِیصِی هَـٰذَا فَأَلۡقُوهُ عَلَىٰ وَجۡهِ أَبِی یَأۡتِ بَصِیرࣰا وَأۡتُونِی بِأَهۡلِكُمۡ أَجۡمَعِینَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 93,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 202,
+        "hizbQuarter": 98,
+        "sajda": false
+      },
+      {
+        "number": 1690,
+        "text": "وَلَمَّا فَصَلَتِ ٱلۡعِیرُ قَالَ أَبُوهُمۡ إِنِّی لَأَجِدُ رِیحَ یُوسُفَۖ لَوۡلَاۤ أَن تُفَنِّدُونِ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 94,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 203,
+        "hizbQuarter": 98,
+        "sajda": false
+      },
+      {
+        "number": 1691,
+        "text": "قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِی ضَلَـٰلِكَ ٱلۡقَدِیمِ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 95,
+        "juz": 13,
+        "manzil": 3,
+        "page": 246,
+        "ruku": 203,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "12": {
+        "number": 12,
+        "name": "سُورَةُ يُوسُفَ",
+        "englishName": "Yusuf",
+        "englishNameTranslation": "Joseph",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 111
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

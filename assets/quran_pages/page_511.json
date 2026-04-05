@@ -1,0 +1,199 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 511,
+    "ayahs": [
+      {
+        "number": 4584,
+        "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ إِنَّا فَتَحۡنَا لَكَ فَتۡحࣰا مُّبِینࣰا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 1,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4585,
+        "text": "لِّیَغۡفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَیُتِمَّ نِعۡمَتَهُۥ عَلَیۡكَ وَیَهۡدِیَكَ صِرَ ٰ⁠طࣰا مُّسۡتَقِیمࣰا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 2,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4586,
+        "text": "وَیَنصُرَكَ ٱللَّهُ نَصۡرًا عَزِیزًا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 3,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4587,
+        "text": "هُوَ ٱلَّذِیۤ أَنزَلَ ٱلسَّكِینَةَ فِی قُلُوبِ ٱلۡمُؤۡمِنِینَ لِیَزۡدَادُوۤا۟ إِیمَـٰنࣰا مَّعَ إِیمَـٰنِهِمۡۗ وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ عَلِیمًا حَكِیمࣰا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 4,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4588,
+        "text": "لِّیُدۡخِلَ ٱلۡمُؤۡمِنِینَ وَٱلۡمُؤۡمِنَـٰتِ جَنَّـٰتࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَا وَیُكَفِّرَ عَنۡهُمۡ سَیِّـَٔاتِهِمۡۚ وَكَانَ ذَ ٰ⁠لِكَ عِندَ ٱللَّهِ فَوۡزًا عَظِیمࣰا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 5,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4589,
+        "text": "وَیُعَذِّبَ ٱلۡمُنَـٰفِقِینَ وَٱلۡمُنَـٰفِقَـٰتِ وَٱلۡمُشۡرِكِینَ وَٱلۡمُشۡرِكَـٰتِ ٱلظَّاۤنِّینَ بِٱللَّهِ ظَنَّ ٱلسَّوۡءِۚ عَلَیۡهِمۡ دَاۤىِٕرَةُ ٱلسَّوۡءِۖ وَغَضِبَ ٱللَّهُ عَلَیۡهِمۡ وَلَعَنَهُمۡ وَأَعَدَّ لَهُمۡ جَهَنَّمَۖ وَسَاۤءَتۡ مَصِیرࣰا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 6,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4590,
+        "text": "وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ عَزِیزًا حَكِیمًا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 7,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4591,
+        "text": "إِنَّاۤ أَرۡسَلۡنَـٰكَ شَـٰهِدࣰا وَمُبَشِّرࣰا وَنَذِیرࣰا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 8,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      },
+      {
+        "number": 4592,
+        "text": "لِّتُؤۡمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُۚ وَتُسَبِّحُوهُ بُكۡرَةࣰ وَأَصِیلًا\n",
+        "surah": {
+          "number": 48,
+          "name": "سُورَةُ الفَتۡحِ",
+          "englishName": "Al-Fath",
+          "englishNameTranslation": "The Victory",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 29
+        },
+        "numberInSurah": 9,
+        "juz": 26,
+        "manzil": 6,
+        "page": 511,
+        "ruku": 446,
+        "hizbQuarter": 204,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "48": {
+        "number": 48,
+        "name": "سُورَةُ الفَتۡحِ",
+        "englishName": "Al-Fath",
+        "englishNameTranslation": "The Victory",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 29
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

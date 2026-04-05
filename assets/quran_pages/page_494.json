@@ -1,0 +1,275 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 494,
+    "ayahs": [
+      {
+        "number": 4386,
+        "text": "وَإِنَّهُۥ لَعِلۡمࣱ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ هَـٰذَا صِرَ ٰ⁠طࣱ مُّسۡتَقِیمࣱ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 61,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 429,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4387,
+        "text": "وَلَا یَصُدَّنَّكُمُ ٱلشَّیۡطَـٰنُۖ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِینࣱ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 62,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 429,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4388,
+        "text": "وَلَمَّا جَاۤءَ عِیسَىٰ بِٱلۡبَیِّنَـٰتِ قَالَ قَدۡ جِئۡتُكُم بِٱلۡحِكۡمَةِ وَلِأُبَیِّنَ لَكُم بَعۡضَ ٱلَّذِی تَخۡتَلِفُونَ فِیهِۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 63,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 429,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4389,
+        "text": "إِنَّ ٱللَّهَ هُوَ رَبِّی وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَـٰذَا صِرَ ٰ⁠طࣱ مُّسۡتَقِیمࣱ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 64,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 429,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4390,
+        "text": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَیۡنِهِمۡۖ فَوَیۡلࣱ لِّلَّذِینَ ظَلَمُوا۟ مِنۡ عَذَابِ یَوۡمٍ أَلِیمٍ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 65,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 429,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4391,
+        "text": "هَلۡ یَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِیَهُم بَغۡتَةࣰ وَهُمۡ لَا یَشۡعُرُونَ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 66,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 429,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4392,
+        "text": "ٱلۡأَخِلَّاۤءُ یَوۡمَىِٕذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِینَ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 67,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 429,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4393,
+        "text": "یَـٰعِبَادِ لَا خَوۡفٌ عَلَیۡكُمُ ٱلۡیَوۡمَ وَلَاۤ أَنتُمۡ تَحۡزَنُونَ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 68,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 430,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4394,
+        "text": "ٱلَّذِینَ ءَامَنُوا۟ بِـَٔایَـٰتِنَا وَكَانُوا۟ مُسۡلِمِینَ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 69,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 430,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4395,
+        "text": "ٱدۡخُلُوا۟ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَ ٰ⁠جُكُمۡ تُحۡبَرُونَ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 70,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 430,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4396,
+        "text": "یُطَافُ عَلَیۡهِم بِصِحَافࣲ مِّن ذَهَبࣲ وَأَكۡوَابࣲۖ وَفِیهَا مَا تَشۡتَهِیهِ ٱلۡأَنفُسُ وَتَلَذُّ ٱلۡأَعۡیُنُۖ وَأَنتُمۡ فِیهَا خَـٰلِدُونَ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 71,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 430,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4397,
+        "text": "وَتِلۡكَ ٱلۡجَنَّةُ ٱلَّتِیۤ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ تَعۡمَلُونَ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 72,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 430,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4398,
+        "text": "لَكُمۡ فِیهَا فَـٰكِهَةࣱ كَثِیرَةࣱ مِّنۡهَا تَأۡكُلُونَ\n",
+        "surah": {
+          "number": 43,
+          "name": "سُورَةُ الزُّخۡرُفِ",
+          "englishName": "Az-Zukhruf",
+          "englishNameTranslation": "Ornaments of gold",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 89
+        },
+        "numberInSurah": 73,
+        "juz": 25,
+        "manzil": 6,
+        "page": 494,
+        "ruku": 430,
+        "hizbQuarter": 198,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "43": {
+        "number": 43,
+        "name": "سُورَةُ الزُّخۡرُفِ",
+        "englishName": "Az-Zukhruf",
+        "englishNameTranslation": "Ornaments of gold",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 89
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 207,
+    "ayahs": [
+      {
+        "number": 1358,
+        "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ قَـٰتِلُوا۟ ٱلَّذِینَ یَلُونَكُم مِّنَ ٱلۡكُفَّارِ وَلۡیَجِدُوا۟ فِیكُمۡ غِلۡظَةࣰۚ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِینَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 123,
+        "juz": 11,
+        "manzil": 2,
+        "page": 207,
+        "ruku": 171,
+        "hizbQuarter": 83,
+        "sajda": false
+      },
+      {
+        "number": 1359,
+        "text": "وَإِذَا مَاۤ أُنزِلَتۡ سُورَةࣱ فَمِنۡهُم مَّن یَقُولُ أَیُّكُمۡ زَادَتۡهُ هَـٰذِهِۦۤ إِیمَـٰنࣰاۚ فَأَمَّا ٱلَّذِینَ ءَامَنُوا۟ فَزَادَتۡهُمۡ إِیمَـٰنࣰا وَهُمۡ یَسۡتَبۡشِرُونَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 124,
+        "juz": 11,
+        "manzil": 2,
+        "page": 207,
+        "ruku": 171,
+        "hizbQuarter": 83,
+        "sajda": false
+      },
+      {
+        "number": 1360,
+        "text": "وَأَمَّا ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ فَزَادَتۡهُمۡ رِجۡسًا إِلَىٰ رِجۡسِهِمۡ وَمَاتُوا۟ وَهُمۡ كَـٰفِرُونَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 125,
+        "juz": 11,
+        "manzil": 2,
+        "page": 207,
+        "ruku": 171,
+        "hizbQuarter": 83,
+        "sajda": false
+      },
+      {
+        "number": 1361,
+        "text": "أَوَلَا یَرَوۡنَ أَنَّهُمۡ یُفۡتَنُونَ فِی كُلِّ عَامࣲ مَّرَّةً أَوۡ مَرَّتَیۡنِ ثُمَّ لَا یَتُوبُونَ وَلَا هُمۡ یَذَّكَّرُونَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 126,
+        "juz": 11,
+        "manzil": 2,
+        "page": 207,
+        "ruku": 171,
+        "hizbQuarter": 83,
+        "sajda": false
+      },
+      {
+        "number": 1362,
+        "text": "وَإِذَا مَاۤ أُنزِلَتۡ سُورَةࣱ نَّظَرَ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ هَلۡ یَرَىٰكُم مِّنۡ أَحَدࣲ ثُمَّ ٱنصَرَفُوا۟ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمۡ قَوۡمࣱ لَّا یَفۡقَهُونَ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 127,
+        "juz": 11,
+        "manzil": 2,
+        "page": 207,
+        "ruku": 171,
+        "hizbQuarter": 83,
+        "sajda": false
+      },
+      {
+        "number": 1363,
+        "text": "لَقَدۡ جَاۤءَكُمۡ رَسُولࣱ مِّنۡ أَنفُسِكُمۡ عَزِیزٌ عَلَیۡهِ مَا عَنِتُّمۡ حَرِیصٌ عَلَیۡكُم بِٱلۡمُؤۡمِنِینَ رَءُوفࣱ رَّحِیمࣱ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 128,
+        "juz": 11,
+        "manzil": 2,
+        "page": 207,
+        "ruku": 171,
+        "hizbQuarter": 83,
+        "sajda": false
+      },
+      {
+        "number": 1364,
+        "text": "فَإِن تَوَلَّوۡا۟ فَقُلۡ حَسۡبِیَ ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَۖ عَلَیۡهِ تَوَكَّلۡتُۖ وَهُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِیمِ\n",
+        "surah": {
+          "number": 9,
+          "name": "سُورَةُ التَّوۡبَةِ",
+          "englishName": "At-Tawba",
+          "englishNameTranslation": "The Repentance",
+          "revelationType": "Medinan",
+          "numberOfAyahs": 129
+        },
+        "numberInSurah": 129,
+        "juz": 11,
+        "manzil": 2,
+        "page": 207,
+        "ruku": 171,
+        "hizbQuarter": 83,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "9": {
+        "number": 9,
+        "name": "سُورَةُ التَّوۡبَةِ",
+        "englishName": "At-Tawba",
+        "englishNameTranslation": "The Repentance",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 129
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

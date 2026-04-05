@@ -1,0 +1,161 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 463,
+    "ayahs": [
+      {
+        "number": 4099,
+        "text": "إِنَّاۤ أَنزَلۡنَا عَلَیۡكَ ٱلۡكِتَـٰبَ لِلنَّاسِ بِٱلۡحَقِّۖ فَمَنِ ٱهۡتَدَىٰ فَلِنَفۡسِهِۦۖ وَمَن ضَلَّ فَإِنَّمَا یَضِلُّ عَلَیۡهَاۖ وَمَاۤ أَنتَ عَلَیۡهِم بِوَكِیلٍ\n",
+        "surah": {
+          "number": 39,
+          "name": "سُورَةُ الزُّمَرِ",
+          "englishName": "Az-Zumar",
+          "englishNameTranslation": "The Groups",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 75
+        },
+        "numberInSurah": 41,
+        "juz": 24,
+        "manzil": 6,
+        "page": 463,
+        "ruku": 399,
+        "hizbQuarter": 185,
+        "sajda": false
+      },
+      {
+        "number": 4100,
+        "text": "ٱللَّهُ یَتَوَفَّى ٱلۡأَنفُسَ حِینَ مَوۡتِهَا وَٱلَّتِی لَمۡ تَمُتۡ فِی مَنَامِهَاۖ فَیُمۡسِكُ ٱلَّتِی قَضَىٰ عَلَیۡهَا ٱلۡمَوۡتَ وَیُرۡسِلُ ٱلۡأُخۡرَىٰۤ إِلَىٰۤ أَجَلࣲ مُّسَمًّىۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَتَفَكَّرُونَ\n",
+        "surah": {
+          "number": 39,
+          "name": "سُورَةُ الزُّمَرِ",
+          "englishName": "Az-Zumar",
+          "englishNameTranslation": "The Groups",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 75
+        },
+        "numberInSurah": 42,
+        "juz": 24,
+        "manzil": 6,
+        "page": 463,
+        "ruku": 400,
+        "hizbQuarter": 185,
+        "sajda": false
+      },
+      {
+        "number": 4101,
+        "text": "أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَاۤءَۚ قُلۡ أَوَلَوۡ كَانُوا۟ لَا یَمۡلِكُونَ شَیۡـࣰٔا وَلَا یَعۡقِلُونَ\n",
+        "surah": {
+          "number": 39,
+          "name": "سُورَةُ الزُّمَرِ",
+          "englishName": "Az-Zumar",
+          "englishNameTranslation": "The Groups",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 75
+        },
+        "numberInSurah": 43,
+        "juz": 24,
+        "manzil": 6,
+        "page": 463,
+        "ruku": 400,
+        "hizbQuarter": 185,
+        "sajda": false
+      },
+      {
+        "number": 4102,
+        "text": "قُل لِّلَّهِ ٱلشَّفَـٰعَةُ جَمِیعࣰاۖ لَّهُۥ مُلۡكُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۖ ثُمَّ إِلَیۡهِ تُرۡجَعُونَ\n",
+        "surah": {
+          "number": 39,
+          "name": "سُورَةُ الزُّمَرِ",
+          "englishName": "Az-Zumar",
+          "englishNameTranslation": "The Groups",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 75
+        },
+        "numberInSurah": 44,
+        "juz": 24,
+        "manzil": 6,
+        "page": 463,
+        "ruku": 400,
+        "hizbQuarter": 185,
+        "sajda": false
+      },
+      {
+        "number": 4103,
+        "text": "وَإِذَا ذُكِرَ ٱللَّهُ وَحۡدَهُ ٱشۡمَأَزَّتۡ قُلُوبُ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡـَٔاخِرَةِۖ وَإِذَا ذُكِرَ ٱلَّذِینَ مِن دُونِهِۦۤ إِذَا هُمۡ یَسۡتَبۡشِرُونَ\n",
+        "surah": {
+          "number": 39,
+          "name": "سُورَةُ الزُّمَرِ",
+          "englishName": "Az-Zumar",
+          "englishNameTranslation": "The Groups",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 75
+        },
+        "numberInSurah": 45,
+        "juz": 24,
+        "manzil": 6,
+        "page": 463,
+        "ruku": 400,
+        "hizbQuarter": 185,
+        "sajda": false
+      },
+      {
+        "number": 4104,
+        "text": "قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ عَـٰلِمَ ٱلۡغَیۡبِ وَٱلشَّهَـٰدَةِ أَنتَ تَحۡكُمُ بَیۡنَ عِبَادِكَ فِی مَا كَانُوا۟ فِیهِ یَخۡتَلِفُونَ\n",
+        "surah": {
+          "number": 39,
+          "name": "سُورَةُ الزُّمَرِ",
+          "englishName": "Az-Zumar",
+          "englishNameTranslation": "The Groups",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 75
+        },
+        "numberInSurah": 46,
+        "juz": 24,
+        "manzil": 6,
+        "page": 463,
+        "ruku": 400,
+        "hizbQuarter": 185,
+        "sajda": false
+      },
+      {
+        "number": 4105,
+        "text": "وَلَوۡ أَنَّ لِلَّذِینَ ظَلَمُوا۟ مَا فِی ٱلۡأَرۡضِ جَمِیعࣰا وَمِثۡلَهُۥ مَعَهُۥ لَٱفۡتَدَوۡا۟ بِهِۦ مِن سُوۤءِ ٱلۡعَذَابِ یَوۡمَ ٱلۡقِیَـٰمَةِۚ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمۡ یَكُونُوا۟ یَحۡتَسِبُونَ\n",
+        "surah": {
+          "number": 39,
+          "name": "سُورَةُ الزُّمَرِ",
+          "englishName": "Az-Zumar",
+          "englishNameTranslation": "The Groups",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 75
+        },
+        "numberInSurah": 47,
+        "juz": 24,
+        "manzil": 6,
+        "page": 463,
+        "ruku": 400,
+        "hizbQuarter": 185,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "39": {
+        "number": 39,
+        "name": "سُورَةُ الزُّمَرِ",
+        "englishName": "Az-Zumar",
+        "englishNameTranslation": "The Groups",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 75
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

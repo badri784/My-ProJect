@@ -1,0 +1,199 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 380,
+    "ayahs": [
+      {
+        "number": 3195,
+        "text": "فَلَمَّا جَاۤءَ سُلَیۡمَـٰنَ قَالَ أَتُمِدُّونَنِ بِمَالࣲ فَمَاۤ ءَاتَىٰنِۦَ ٱللَّهُ خَیۡرࣱ مِّمَّاۤ ءَاتَىٰكُمۚ بَلۡ أَنتُم بِهَدِیَّتِكُمۡ تَفۡرَحُونَ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 36,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      },
+      {
+        "number": 3196,
+        "text": "ٱرۡجِعۡ إِلَیۡهِمۡ فَلَنَأۡتِیَنَّهُم بِجُنُودࣲ لَّا قِبَلَ لَهُم بِهَا وَلَنُخۡرِجَنَّهُم مِّنۡهَاۤ أَذِلَّةࣰ وَهُمۡ صَـٰغِرُونَ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 37,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      },
+      {
+        "number": 3197,
+        "text": "قَالَ یَـٰۤأَیُّهَا ٱلۡمَلَؤُا۟ أَیُّكُمۡ یَأۡتِینِی بِعَرۡشِهَا قَبۡلَ أَن یَأۡتُونِی مُسۡلِمِینَ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 38,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      },
+      {
+        "number": 3198,
+        "text": "قَالَ عِفۡرِیتࣱ مِّنَ ٱلۡجِنِّ أَنَا۠ ءَاتِیكَ بِهِۦ قَبۡلَ أَن تَقُومَ مِن مَّقَامِكَۖ وَإِنِّی عَلَیۡهِ لَقَوِیٌّ أَمِینࣱ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 39,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      },
+      {
+        "number": 3199,
+        "text": "قَالَ ٱلَّذِی عِندَهُۥ عِلۡمࣱ مِّنَ ٱلۡكِتَـٰبِ أَنَا۠ ءَاتِیكَ بِهِۦ قَبۡلَ أَن یَرۡتَدَّ إِلَیۡكَ طَرۡفُكَۚ فَلَمَّا رَءَاهُ مُسۡتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضۡلِ رَبِّی لِیَبۡلُوَنِیۤ ءَأَشۡكُرُ أَمۡ أَكۡفُرُۖ وَمَن شَكَرَ فَإِنَّمَا یَشۡكُرُ لِنَفۡسِهِۦۖ وَمَن كَفَرَ فَإِنَّ رَبِّی غَنِیࣱّ كَرِیمࣱ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 40,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      },
+      {
+        "number": 3200,
+        "text": "قَالَ نَكِّرُوا۟ لَهَا عَرۡشَهَا نَنظُرۡ أَتَهۡتَدِیۤ أَمۡ تَكُونُ مِنَ ٱلَّذِینَ لَا یَهۡتَدُونَ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 41,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      },
+      {
+        "number": 3201,
+        "text": "فَلَمَّا جَاۤءَتۡ قِیلَ أَهَـٰكَذَا عَرۡشُكِۖ قَالَتۡ كَأَنَّهُۥ هُوَۚ وَأُوتِینَا ٱلۡعِلۡمَ مِن قَبۡلِهَا وَكُنَّا مُسۡلِمِینَ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 42,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      },
+      {
+        "number": 3202,
+        "text": "وَصَدَّهَا مَا كَانَت تَّعۡبُدُ مِن دُونِ ٱللَّهِۖ إِنَّهَا كَانَتۡ مِن قَوۡمࣲ كَـٰفِرِینَ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 43,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      },
+      {
+        "number": 3203,
+        "text": "قِیلَ لَهَا ٱدۡخُلِی ٱلصَّرۡحَۖ فَلَمَّا رَأَتۡهُ حَسِبَتۡهُ لُجَّةࣰ وَكَشَفَتۡ عَن سَاقَیۡهَاۚ قَالَ إِنَّهُۥ صَرۡحࣱ مُّمَرَّدࣱ مِّن قَوَارِیرَۗ قَالَتۡ رَبِّ إِنِّی ظَلَمۡتُ نَفۡسِی وَأَسۡلَمۡتُ مَعَ سُلَیۡمَـٰنَ لِلَّهِ رَبِّ ٱلۡعَـٰلَمِینَ\n",
+        "surah": {
+          "number": 27,
+          "name": "سُورَةُ النَّمۡلِ",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 93
+        },
+        "numberInSurah": 44,
+        "juz": 19,
+        "manzil": 5,
+        "page": 380,
+        "ruku": 329,
+        "hizbQuarter": 152,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "27": {
+        "number": 27,
+        "name": "سُورَةُ النَّمۡلِ",
+        "englishName": "An-Naml",
+        "englishNameTranslation": "The Ant",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 93
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

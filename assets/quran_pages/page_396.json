@@ -1,0 +1,226 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 396,
+    "ayahs": [
+      {
+        "number": 3337,
+        "text": "إِنَّ ٱلَّذِی فَرَضَ عَلَیۡكَ ٱلۡقُرۡءَانَ لَرَاۤدُّكَ إِلَىٰ مَعَادࣲۚ قُل رَّبِّیۤ أَعۡلَمُ مَن جَاۤءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِی ضَلَـٰلࣲ مُّبِینࣲ\n",
+        "surah": {
+          "number": 28,
+          "name": "سُورَةُ القَصَصِ",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 88
+        },
+        "numberInSurah": 85,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 341,
+        "hizbQuarter": 158,
+        "sajda": false
+      },
+      {
+        "number": 3338,
+        "text": "وَمَا كُنتَ تَرۡجُوۤا۟ أَن یُلۡقَىٰۤ إِلَیۡكَ ٱلۡكِتَـٰبُ إِلَّا رَحۡمَةࣰ مِّن رَّبِّكَۖ فَلَا تَكُونَنَّ ظَهِیرࣰا لِّلۡكَـٰفِرِینَ\n",
+        "surah": {
+          "number": 28,
+          "name": "سُورَةُ القَصَصِ",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 88
+        },
+        "numberInSurah": 86,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 341,
+        "hizbQuarter": 158,
+        "sajda": false
+      },
+      {
+        "number": 3339,
+        "text": "وَلَا یَصُدُّنَّكَ عَنۡ ءَایَـٰتِ ٱللَّهِ بَعۡدَ إِذۡ أُنزِلَتۡ إِلَیۡكَۖ وَٱدۡعُ إِلَىٰ رَبِّكَۖ وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِینَ\n",
+        "surah": {
+          "number": 28,
+          "name": "سُورَةُ القَصَصِ",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 88
+        },
+        "numberInSurah": 87,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 341,
+        "hizbQuarter": 158,
+        "sajda": false
+      },
+      {
+        "number": 3340,
+        "text": "وَلَا تَدۡعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَۘ لَاۤ إِلَـٰهَ إِلَّا هُوَۚ كُلُّ شَیۡءٍ هَالِكٌ إِلَّا وَجۡهَهُۥۚ لَهُ ٱلۡحُكۡمُ وَإِلَیۡهِ تُرۡجَعُونَ\n",
+        "surah": {
+          "number": 28,
+          "name": "سُورَةُ القَصَصِ",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 88
+        },
+        "numberInSurah": 88,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 341,
+        "hizbQuarter": 158,
+        "sajda": false
+      },
+      {
+        "number": 3341,
+        "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ الۤمۤ\n",
+        "surah": {
+          "number": 29,
+          "name": "سُورَةُ العَنكَبُوتِ",
+          "englishName": "Al-Ankaboot",
+          "englishNameTranslation": "The Spider",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 69
+        },
+        "numberInSurah": 1,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 342,
+        "hizbQuarter": 159,
+        "sajda": false
+      },
+      {
+        "number": 3342,
+        "text": "أَحَسِبَ ٱلنَّاسُ أَن یُتۡرَكُوۤا۟ أَن یَقُولُوۤا۟ ءَامَنَّا وَهُمۡ لَا یُفۡتَنُونَ\n",
+        "surah": {
+          "number": 29,
+          "name": "سُورَةُ العَنكَبُوتِ",
+          "englishName": "Al-Ankaboot",
+          "englishNameTranslation": "The Spider",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 69
+        },
+        "numberInSurah": 2,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 342,
+        "hizbQuarter": 159,
+        "sajda": false
+      },
+      {
+        "number": 3343,
+        "text": "وَلَقَدۡ فَتَنَّا ٱلَّذِینَ مِن قَبۡلِهِمۡۖ فَلَیَعۡلَمَنَّ ٱللَّهُ ٱلَّذِینَ صَدَقُوا۟ وَلَیَعۡلَمَنَّ ٱلۡكَـٰذِبِینَ\n",
+        "surah": {
+          "number": 29,
+          "name": "سُورَةُ العَنكَبُوتِ",
+          "englishName": "Al-Ankaboot",
+          "englishNameTranslation": "The Spider",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 69
+        },
+        "numberInSurah": 3,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 342,
+        "hizbQuarter": 159,
+        "sajda": false
+      },
+      {
+        "number": 3344,
+        "text": "أَمۡ حَسِبَ ٱلَّذِینَ یَعۡمَلُونَ ٱلسَّیِّـَٔاتِ أَن یَسۡبِقُونَاۚ سَاۤءَ مَا یَحۡكُمُونَ\n",
+        "surah": {
+          "number": 29,
+          "name": "سُورَةُ العَنكَبُوتِ",
+          "englishName": "Al-Ankaboot",
+          "englishNameTranslation": "The Spider",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 69
+        },
+        "numberInSurah": 4,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 342,
+        "hizbQuarter": 159,
+        "sajda": false
+      },
+      {
+        "number": 3345,
+        "text": "مَن كَانَ یَرۡجُوا۟ لِقَاۤءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَـَٔاتࣲۚ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ\n",
+        "surah": {
+          "number": 29,
+          "name": "سُورَةُ العَنكَبُوتِ",
+          "englishName": "Al-Ankaboot",
+          "englishNameTranslation": "The Spider",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 69
+        },
+        "numberInSurah": 5,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 342,
+        "hizbQuarter": 159,
+        "sajda": false
+      },
+      {
+        "number": 3346,
+        "text": "وَمَن جَـٰهَدَ فَإِنَّمَا یُجَـٰهِدُ لِنَفۡسِهِۦۤۚ إِنَّ ٱللَّهَ لَغَنِیٌّ عَنِ ٱلۡعَـٰلَمِینَ\n",
+        "surah": {
+          "number": 29,
+          "name": "سُورَةُ العَنكَبُوتِ",
+          "englishName": "Al-Ankaboot",
+          "englishNameTranslation": "The Spider",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 69
+        },
+        "numberInSurah": 6,
+        "juz": 20,
+        "manzil": 5,
+        "page": 396,
+        "ruku": 342,
+        "hizbQuarter": 159,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "28": {
+        "number": 28,
+        "name": "سُورَةُ القَصَصِ",
+        "englishName": "Al-Qasas",
+        "englishNameTranslation": "The Stories",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 88
+      },
+      "29": {
+        "number": 29,
+        "name": "سُورَةُ العَنكَبُوتِ",
+        "englishName": "Al-Ankaboot",
+        "englishNameTranslation": "The Spider",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 69
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

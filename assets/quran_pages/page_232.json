@@ -1,0 +1,199 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 232,
+    "ayahs": [
+      {
+        "number": 1562,
+        "text": "وَیَـٰقَوۡمِ لَا یَجۡرِمَنَّكُمۡ شِقَاقِیۤ أَن یُصِیبَكُم مِّثۡلُ مَاۤ أَصَابَ قَوۡمَ نُوحٍ أَوۡ قَوۡمَ هُودٍ أَوۡ قَوۡمَ صَـٰلِحࣲۚ وَمَا قَوۡمُ لُوطࣲ مِّنكُم بِبَعِیدࣲ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 89,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 190,
+        "hizbQuarter": 93,
+        "sajda": false
+      },
+      {
+        "number": 1563,
+        "text": "وَٱسۡتَغۡفِرُوا۟ رَبَّكُمۡ ثُمَّ تُوبُوۤا۟ إِلَیۡهِۚ إِنَّ رَبِّی رَحِیمࣱ وَدُودࣱ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 90,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 190,
+        "hizbQuarter": 93,
+        "sajda": false
+      },
+      {
+        "number": 1564,
+        "text": "قَالُوا۟ یَـٰشُعَیۡبُ مَا نَفۡقَهُ كَثِیرࣰا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِینَا ضَعِیفࣰاۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَـٰكَۖ وَمَاۤ أَنتَ عَلَیۡنَا بِعَزِیزࣲ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 91,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 190,
+        "hizbQuarter": 93,
+        "sajda": false
+      },
+      {
+        "number": 1565,
+        "text": "قَالَ یَـٰقَوۡمِ أَرَهۡطِیۤ أَعَزُّ عَلَیۡكُم مِّنَ ٱللَّهِ وَٱتَّخَذۡتُمُوهُ وَرَاۤءَكُمۡ ظِهۡرِیًّاۖ إِنَّ رَبِّی بِمَا تَعۡمَلُونَ مُحِیطࣱ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 92,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 190,
+        "hizbQuarter": 93,
+        "sajda": false
+      },
+      {
+        "number": 1566,
+        "text": "وَیَـٰقَوۡمِ ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنِّی عَـٰمِلࣱۖ سَوۡفَ تَعۡلَمُونَ مَن یَأۡتِیهِ عَذَابࣱ یُخۡزِیهِ وَمَنۡ هُوَ كَـٰذِبࣱۖ وَٱرۡتَقِبُوۤا۟ إِنِّی مَعَكُمۡ رَقِیبࣱ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 93,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 190,
+        "hizbQuarter": 93,
+        "sajda": false
+      },
+      {
+        "number": 1567,
+        "text": "وَلَمَّا جَاۤءَ أَمۡرُنَا نَجَّیۡنَا شُعَیۡبࣰا وَٱلَّذِینَ ءَامَنُوا۟ مَعَهُۥ بِرَحۡمَةࣲ مِّنَّا وَأَخَذَتِ ٱلَّذِینَ ظَلَمُوا۟ ٱلصَّیۡحَةُ فَأَصۡبَحُوا۟ فِی دِیَـٰرِهِمۡ جَـٰثِمِینَ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 94,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 190,
+        "hizbQuarter": 93,
+        "sajda": false
+      },
+      {
+        "number": 1568,
+        "text": "كَأَن لَّمۡ یَغۡنَوۡا۟ فِیهَاۤۗ أَلَا بُعۡدࣰا لِّمَدۡیَنَ كَمَا بَعِدَتۡ ثَمُودُ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 95,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 190,
+        "hizbQuarter": 93,
+        "sajda": false
+      },
+      {
+        "number": 1569,
+        "text": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔایَـٰتِنَا وَسُلۡطَـٰنࣲ مُّبِینٍ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 96,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 191,
+        "hizbQuarter": 93,
+        "sajda": false
+      },
+      {
+        "number": 1570,
+        "text": "إِلَىٰ فِرۡعَوۡنَ وَمَلَإِی۟هِۦ فَٱتَّبَعُوۤا۟ أَمۡرَ فِرۡعَوۡنَۖ وَمَاۤ أَمۡرُ فِرۡعَوۡنَ بِرَشِیدࣲ\n",
+        "surah": {
+          "number": 11,
+          "name": "سُورَةُ هُودٍ",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 123
+        },
+        "numberInSurah": 97,
+        "juz": 12,
+        "manzil": 3,
+        "page": 232,
+        "ruku": 191,
+        "hizbQuarter": 93,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "11": {
+        "number": 11,
+        "name": "سُورَةُ هُودٍ",
+        "englishName": "Hud",
+        "englishNameTranslation": "Hud",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 123
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

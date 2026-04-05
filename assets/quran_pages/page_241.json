@@ -1,0 +1,199 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 241,
+    "ayahs": [
+      {
+        "number": 1640,
+        "text": "قَالُوۤا۟ أَضۡغَـٰثُ أَحۡلَـٰمࣲۖ وَمَا نَحۡنُ بِتَأۡوِیلِ ٱلۡأَحۡلَـٰمِ بِعَـٰلِمِینَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 44,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 198,
+        "hizbQuarter": 96,
+        "sajda": false
+      },
+      {
+        "number": 1641,
+        "text": "وَقَالَ ٱلَّذِی نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِیلِهِۦ فَأَرۡسِلُونِ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 45,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 198,
+        "hizbQuarter": 96,
+        "sajda": false
+      },
+      {
+        "number": 1642,
+        "text": "یُوسُفُ أَیُّهَا ٱلصِّدِّیقُ أَفۡتِنَا فِی سَبۡعِ بَقَرَ ٰ⁠تࣲ سِمَانࣲ یَأۡكُلُهُنَّ سَبۡعٌ عِجَافࣱ وَسَبۡعِ سُنۢبُلَـٰتٍ خُضۡرࣲ وَأُخَرَ یَابِسَـٰتࣲ لَّعَلِّیۤ أَرۡجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمۡ یَعۡلَمُونَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 46,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 198,
+        "hizbQuarter": 96,
+        "sajda": false
+      },
+      {
+        "number": 1643,
+        "text": "قَالَ تَزۡرَعُونَ سَبۡعَ سِنِینَ دَأَبࣰا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِی سُنۢبُلِهِۦۤ إِلَّا قَلِیلࣰا مِّمَّا تَأۡكُلُونَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 47,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 198,
+        "hizbQuarter": 96,
+        "sajda": false
+      },
+      {
+        "number": 1644,
+        "text": "ثُمَّ یَأۡتِی مِنۢ بَعۡدِ ذَ ٰ⁠لِكَ سَبۡعࣱ شِدَادࣱ یَأۡكُلۡنَ مَا قَدَّمۡتُمۡ لَهُنَّ إِلَّا قَلِیلࣰا مِّمَّا تُحۡصِنُونَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 48,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 198,
+        "hizbQuarter": 96,
+        "sajda": false
+      },
+      {
+        "number": 1645,
+        "text": "ثُمَّ یَأۡتِی مِنۢ بَعۡدِ ذَ ٰ⁠لِكَ عَامࣱ فِیهِ یُغَاثُ ٱلنَّاسُ وَفِیهِ یَعۡصِرُونَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 49,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 198,
+        "hizbQuarter": 96,
+        "sajda": false
+      },
+      {
+        "number": 1646,
+        "text": "وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِی بِهِۦۖ فَلَمَّا جَاۤءَهُ ٱلرَّسُولُ قَالَ ٱرۡجِعۡ إِلَىٰ رَبِّكَ فَسۡـَٔلۡهُ مَا بَالُ ٱلنِّسۡوَةِ ٱلَّـٰتِی قَطَّعۡنَ أَیۡدِیَهُنَّۚ إِنَّ رَبِّی بِكَیۡدِهِنَّ عَلِیمࣱ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 50,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 199,
+        "hizbQuarter": 96,
+        "sajda": false
+      },
+      {
+        "number": 1647,
+        "text": "قَالَ مَا خَطۡبُكُنَّ إِذۡ رَ ٰ⁠وَدتُّنَّ یُوسُفَ عَن نَّفۡسِهِۦۚ قُلۡنَ حَـٰشَ لِلَّهِ مَا عَلِمۡنَا عَلَیۡهِ مِن سُوۤءࣲۚ قَالَتِ ٱمۡرَأَتُ ٱلۡعَزِیزِ ٱلۡـَٔـٰنَ حَصۡحَصَ ٱلۡحَقُّ أَنَا۠ رَ ٰ⁠وَدتُّهُۥ عَن نَّفۡسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِینَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 51,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 199,
+        "hizbQuarter": 96,
+        "sajda": false
+      },
+      {
+        "number": 1648,
+        "text": "ذَ ٰ⁠لِكَ لِیَعۡلَمَ أَنِّی لَمۡ أَخُنۡهُ بِٱلۡغَیۡبِ وَأَنَّ ٱللَّهَ لَا یَهۡدِی كَیۡدَ ٱلۡخَاۤىِٕنِینَ\n",
+        "surah": {
+          "number": 12,
+          "name": "سُورَةُ يُوسُفَ",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 111
+        },
+        "numberInSurah": 52,
+        "juz": 12,
+        "manzil": 3,
+        "page": 241,
+        "ruku": 199,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "12": {
+        "number": 12,
+        "name": "سُورَةُ يُوسُفَ",
+        "englishName": "Yusuf",
+        "englishNameTranslation": "Joseph",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 111
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

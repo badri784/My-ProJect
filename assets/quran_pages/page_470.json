@@ -1,0 +1,180 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 470,
+    "ayahs": [
+      {
+        "number": 4159,
+        "text": "وَقَالَ فِرۡعَوۡنُ ذَرُونِیۤ أَقۡتُلۡ مُوسَىٰ وَلۡیَدۡعُ رَبَّهُۥۤۖ إِنِّیۤ أَخَافُ أَن یُبَدِّلَ دِینَكُمۡ أَوۡ أَن یُظۡهِرَ فِی ٱلۡأَرۡضِ ٱلۡفَسَادَ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 26,
+        "juz": 24,
+        "manzil": 6,
+        "page": 470,
+        "ruku": 406,
+        "hizbQuarter": 188,
+        "sajda": false
+      },
+      {
+        "number": 4160,
+        "text": "وَقَالَ مُوسَىٰۤ إِنِّی عُذۡتُ بِرَبِّی وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرࣲ لَّا یُؤۡمِنُ بِیَوۡمِ ٱلۡحِسَابِ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 27,
+        "juz": 24,
+        "manzil": 6,
+        "page": 470,
+        "ruku": 406,
+        "hizbQuarter": 188,
+        "sajda": false
+      },
+      {
+        "number": 4161,
+        "text": "وَقَالَ رَجُلࣱ مُّؤۡمِنࣱ مِّنۡ ءَالِ فِرۡعَوۡنَ یَكۡتُمُ إِیمَـٰنَهُۥۤ أَتَقۡتُلُونَ رَجُلًا أَن یَقُولَ رَبِّیَ ٱللَّهُ وَقَدۡ جَاۤءَكُم بِٱلۡبَیِّنَـٰتِ مِن رَّبِّكُمۡۖ وَإِن یَكُ كَـٰذِبࣰا فَعَلَیۡهِ كَذِبُهُۥۖ وَإِن یَكُ صَادِقࣰا یُصِبۡكُم بَعۡضُ ٱلَّذِی یَعِدُكُمۡۖ إِنَّ ٱللَّهَ لَا یَهۡدِی مَنۡ هُوَ مُسۡرِفࣱ كَذَّابࣱ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 28,
+        "juz": 24,
+        "manzil": 6,
+        "page": 470,
+        "ruku": 407,
+        "hizbQuarter": 188,
+        "sajda": false
+      },
+      {
+        "number": 4162,
+        "text": "یَـٰقَوۡمِ لَكُمُ ٱلۡمُلۡكُ ٱلۡیَوۡمَ ظَـٰهِرِینَ فِی ٱلۡأَرۡضِ فَمَن یَنصُرُنَا مِنۢ بَأۡسِ ٱللَّهِ إِن جَاۤءَنَاۚ قَالَ فِرۡعَوۡنُ مَاۤ أُرِیكُمۡ إِلَّا مَاۤ أَرَىٰ وَمَاۤ أَهۡدِیكُمۡ إِلَّا سَبِیلَ ٱلرَّشَادِ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 29,
+        "juz": 24,
+        "manzil": 6,
+        "page": 470,
+        "ruku": 407,
+        "hizbQuarter": 188,
+        "sajda": false
+      },
+      {
+        "number": 4163,
+        "text": "وَقَالَ ٱلَّذِیۤ ءَامَنَ یَـٰقَوۡمِ إِنِّیۤ أَخَافُ عَلَیۡكُم مِّثۡلَ یَوۡمِ ٱلۡأَحۡزَابِ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 30,
+        "juz": 24,
+        "manzil": 6,
+        "page": 470,
+        "ruku": 407,
+        "hizbQuarter": 188,
+        "sajda": false
+      },
+      {
+        "number": 4164,
+        "text": "مِثۡلَ دَأۡبِ قَوۡمِ نُوحࣲ وَعَادࣲ وَثَمُودَ وَٱلَّذِینَ مِنۢ بَعۡدِهِمۡۚ وَمَا ٱللَّهُ یُرِیدُ ظُلۡمࣰا لِّلۡعِبَادِ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 31,
+        "juz": 24,
+        "manzil": 6,
+        "page": 470,
+        "ruku": 407,
+        "hizbQuarter": 188,
+        "sajda": false
+      },
+      {
+        "number": 4165,
+        "text": "وَیَـٰقَوۡمِ إِنِّیۤ أَخَافُ عَلَیۡكُمۡ یَوۡمَ ٱلتَّنَادِ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 32,
+        "juz": 24,
+        "manzil": 6,
+        "page": 470,
+        "ruku": 407,
+        "hizbQuarter": 188,
+        "sajda": false
+      },
+      {
+        "number": 4166,
+        "text": "یَوۡمَ تُوَلُّونَ مُدۡبِرِینَ مَا لَكُم مِّنَ ٱللَّهِ مِنۡ عَاصِمࣲۗ وَمَن یُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادࣲ\n",
+        "surah": {
+          "number": 40,
+          "name": "سُورَةُ غَافِرٍ",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 85
+        },
+        "numberInSurah": 33,
+        "juz": 24,
+        "manzil": 6,
+        "page": 470,
+        "ruku": 407,
+        "hizbQuarter": 188,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "40": {
+        "number": 40,
+        "name": "سُورَةُ غَافِرٍ",
+        "englishName": "Ghafir",
+        "englishNameTranslation": "The Forgiver",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 85
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

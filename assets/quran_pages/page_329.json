@@ -1,0 +1,199 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 329,
+    "ayahs": [
+      {
+        "number": 2565,
+        "text": "وَمِنَ ٱلشَّیَـٰطِینِ مَن یَغُوصُونَ لَهُۥ وَیَعۡمَلُونَ عَمَلࣰا دُونَ ذَ ٰ⁠لِكَۖ وَكُنَّا لَهُمۡ حَـٰفِظِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 82,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 131,
+        "sajda": false
+      },
+      {
+        "number": 2566,
+        "text": "۞ وَأَیُّوبَ إِذۡ نَادَىٰ رَبَّهُۥۤ أَنِّی مَسَّنِیَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّ ٰ⁠حِمِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 83,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2567,
+        "text": "فَٱسۡتَجَبۡنَا لَهُۥ فَكَشَفۡنَا مَا بِهِۦ مِن ضُرࣲّۖ وَءَاتَیۡنَـٰهُ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةࣰ مِّنۡ عِندِنَا وَذِكۡرَىٰ لِلۡعَـٰبِدِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 84,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2568,
+        "text": "وَإِسۡمَـٰعِیلَ وَإِدۡرِیسَ وَذَا ٱلۡكِفۡلِۖ كُلࣱّ مِّنَ ٱلصَّـٰبِرِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 85,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2569,
+        "text": "وَأَدۡخَلۡنَـٰهُمۡ فِی رَحۡمَتِنَاۤۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 86,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2570,
+        "text": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَـٰضِبࣰا فَظَنَّ أَن لَّن نَّقۡدِرَ عَلَیۡهِ فَنَادَىٰ فِی ٱلظُّلُمَـٰتِ أَن لَّاۤ إِلَـٰهَ إِلَّاۤ أَنتَ سُبۡحَـٰنَكَ إِنِّی كُنتُ مِنَ ٱلظَّـٰلِمِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 87,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2571,
+        "text": "فَٱسۡتَجَبۡنَا لَهُۥ وَنَجَّیۡنَـٰهُ مِنَ ٱلۡغَمِّۚ وَكَذَ ٰ⁠لِكَ نُـۨجِی ٱلۡمُؤۡمِنِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 88,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2572,
+        "text": "وَزَكَرِیَّاۤ إِذۡ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرۡنِی فَرۡدࣰا وَأَنتَ خَیۡرُ ٱلۡوَ ٰ⁠رِثِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 89,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2573,
+        "text": "فَٱسۡتَجَبۡنَا لَهُۥ وَوَهَبۡنَا لَهُۥ یَحۡیَىٰ وَأَصۡلَحۡنَا لَهُۥ زَوۡجَهُۥۤۚ إِنَّهُمۡ كَانُوا۟ یُسَـٰرِعُونَ فِی ٱلۡخَیۡرَ ٰ⁠تِ وَیَدۡعُونَنَا رَغَبࣰا وَرَهَبࣰاۖ وَكَانُوا۟ لَنَا خَـٰشِعِینَ\n",
+        "surah": {
+          "number": 21,
+          "name": "سُورَةُ الأَنبِيَاءِ",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "revelationType": "Meccan",
+          "numberOfAyahs": 112
+        },
+        "numberInSurah": 90,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      }
+    ],
+    "surahs": {
+      "21": {
+        "number": 21,
+        "name": "سُورَةُ الأَنبِيَاءِ",
+        "englishName": "Al-Anbiyaa",
+        "englishNameTranslation": "The Prophets",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 112
+      }
+    },
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
