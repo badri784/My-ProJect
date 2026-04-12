@@ -13,7 +13,6 @@ class SettingsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: ColorsManger.backgroundWhite,
-
       appBar: AppBar(
         backgroundColor: ColorsManger.backgroundWhite,
         title: Text(S.of(context).settings, style: TextStyles.font26BlackBold),

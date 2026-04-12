@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quran_azkar/core/routing/routes.dart';
-import 'package:quran_azkar/feature/logic/cubit/zekr_cubit.dart';
 
 import '../../feature/logic/cubit/all_surahs_cubit.dart';
 import '../../feature/ui/on_boarding/on_boardin_screen.dart';
@@ -20,7 +19,7 @@ import '../../feature/widget/bottom_navigation.dart';
 import '../../feature/ui/screens/about_application/about_application_screen.dart';
 import '../../feature/ui/screens/ahkam/ahkam.dart';
 import '../../feature/ui/screens/azkar/post_pryar.dart';
-import '../../feature/ui/screens/azkar/slipping.dart';
+import '../../feature/ui/screens/azkar/sleeping.dart';
 import '../../feature/ui/screens/qibla/qibla.dart';
 import '../../feature/ui/screens/sebha/sebha.dart';
 
@@ -70,12 +69,7 @@ class AppRouter {
       case Routes.sebha:
         return MaterialPageRoute(builder: (context) => const SebhaScreen());
       case Routes.azkar:
-        return MaterialPageRoute(
-          builder: (context) => BlocProvider(
-            create: (context) => ZekrCubit(),
-            child: const AzkarScreen(),
-          ),
-        );
+        return MaterialPageRoute(builder: (context) => const AzkarScreen());
       case Routes.quran:
         return MaterialPageRoute(
           builder: (context) => BlocProvider(
@@ -84,36 +78,13 @@ class AppRouter {
           ),
         );
       case Routes.afterPrayerAzkar:
-        return MaterialPageRoute(
-          builder: (context) => BlocProvider(
-            create: (context) => ZekrCubit(),
-            child: const PostPryarScreen(),
-          ),
-        );
+        return MaterialPageRoute(builder: (context) => const PostPryarScreen());
       case Routes.eveningAzkar:
-        return MaterialPageRoute(
-          builder: (context) => BlocProvider(
-            create: (context) => ZekrCubit(),
-            child: BlocProvider(
-              create: (context) => ZekrCubit(),
-              child: const EveningScreen(),
-            ),
-          ),
-        );
+        return MaterialPageRoute(builder: (context) => const EveningScreen());
       case Routes.slipping:
-        return MaterialPageRoute(
-          builder: (context) => BlocProvider(
-            create: (context) => ZekrCubit(),
-            child: const SlippingScreen(),
-          ),
-        );
+        return MaterialPageRoute(builder: (context) => const SlippingScreen());
       case Routes.morningAzkar:
-        return MaterialPageRoute(
-          builder: (context) => BlocProvider(
-            create: (context) => ZekrCubit(),
-            child: const MorningScreen(),
-          ),
-        );
+        return MaterialPageRoute(builder: (context) => const MorningScreen());
       default:
         return MaterialPageRoute(
           builder: (context) => Scaffold(

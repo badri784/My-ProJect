@@ -90,7 +90,7 @@ class _SebhaScreenState extends State<SebhaScreen> {
                 ),
               ),
               Container(
-                height: 200.w,
+                height: 200.h,
                 width: 200.w,
                 decoration: BoxDecoration(
                   border: Border.all(

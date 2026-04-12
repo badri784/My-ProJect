@@ -1,4 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:quran_azkar/core/model/azkar_model.dart';
 import 'package:quran_azkar/feature/logic/cubit/zekr_state.dart';
 
 import '../../../core/service/service.dart';
@@ -14,7 +15,7 @@ class ZekrCubit extends Cubit<ZekrState> {
   }) async {
     emit(ZekrLoading());
     try {
-      final azkarList = await _service.readJson(
+      final List<AllAzkar> azkarList = await _service.readJson(
         fileName: fileName,
         jsonKey: jsonKey,
       );
