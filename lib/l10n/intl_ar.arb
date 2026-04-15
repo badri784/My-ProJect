@@ -77,7 +77,7 @@
     "subhanAllah": "سبحان الله",
     "alhamdulillah": "الحمد لله",
     "allahuAkbar": "الله أكبر",
-    "laIlahaIllaAllah": "لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير",
+
     "laHawlaWaLaQuwwataIllaBillah": "لا حول ولا قوة إلا بالله العلي العظيم",
     "subhanAllahWaBihamdihSubhanAllahAlAzim": "سبحان الله وبحمده سبحان الله العظيم",
     "astaghfirullah": "استغفر الله العظيم",
@@ -88,5 +88,6 @@
     "surahArRadAyah28": "سورة الرعد - آية 28",
     "anErrorOccurredTryAgain": "حدث خطأ، حاول مرة أخرى",
     "appFeatures": "مميزات التطبيق",
-    "ahkam": "احكام"
+    "ahkam": "احكام",
+    "repetIsOver":"تم الانتهاء من هذا الذكر"
 }

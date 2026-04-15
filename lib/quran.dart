@@ -15,6 +15,8 @@ class Quran extends StatelessWidget {
       minTextAdapt: true,
       splitScreenMode: true,
       child: MaterialApp(
+        showPerformanceOverlay: true,
+
         theme: ThemeData(brightness: Brightness.light),
         locale: const Locale('ar'),
         localizationsDelegates: [

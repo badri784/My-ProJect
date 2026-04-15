@@ -684,16 +684,6 @@ class S {
     );
   }
 
-  /// `La ilaha illa Allah, wahdahu la sharika lah...`
-  String get laIlahaIllaAllah {
-    return Intl.message(
-      'La ilaha illa Allah, wahdahu la sharika lah...',
-      name: 'laIlahaIllaAllah',
-      desc: '',
-      args: [],
-    );
-  }
-
   /// `La hawla wa la quwwata illa billah`
   String get laHawlaWaLaQuwwataIllaBillah {
     return Intl.message(
@@ -779,6 +769,21 @@ class S {
     return Intl.message(
       'App Features',
       name: 'appFeatures',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Ahkam`
+  String get ahkam {
+    return Intl.message('Ahkam', name: 'ahkam', desc: '', args: []);
+  }
+
+  /// `Repetition is over`
+  String get repetIsOver {
+    return Intl.message(
+      'Repetition is over',
+      name: 'repetIsOver',
       desc: '',
       args: [],
     );

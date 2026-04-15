@@ -30,8 +30,8 @@ class HomeGridView extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Container(
-                height: 38.w,
-                width: 38.w,
+                // height: 38.w,
+                // width: 38.w,
                 decoration: BoxDecoration(
                   color: ColorsManger.backgroundIcon,
                   borderRadius: BorderRadius.circular(12.r),

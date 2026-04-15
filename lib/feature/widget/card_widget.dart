@@ -26,7 +26,7 @@ class CardWidget extends StatelessWidget {
   Widget build(context) {
     return Card(
       child: Container(
-        height: 70.h,
+        // height: 70.h,
         width: double.infinity,
         decoration:
             decoration ??
@@ -51,8 +51,8 @@ class CardWidget extends StatelessWidget {
                   size: 14.sp,
                 ),
             leading: Container(
-              width: 45.w,
-              height: 45.h,
+              // width: 45.w,
+              // height: 45.h,
               decoration:
                   decorationLeading ??
                   BoxDecoration(

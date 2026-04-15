@@ -26,6 +26,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "afterThePrayerRemembrance": MessageLookupByLibrary.simpleMessage(
       "اذكار بعد الصلاه",
     ),
+    "ahkam": MessageLookupByLibrary.simpleMessage("احكام"),
     "alBasmalah": MessageLookupByLibrary.simpleMessage(
       "بسم الله الرحمن الرحيم",
     ),
@@ -74,9 +75,6 @@ class MessageLookup extends MessageLookupByLibrary {
     "juz": MessageLookupByLibrary.simpleMessage("الجزء"),
     "laHawlaWaLaQuwwataIllaBillah": MessageLookupByLibrary.simpleMessage(
       "لا حول ولا قوة إلا بالله العلي العظيم",
-    ),
-    "laIlahaIllaAllah": MessageLookupByLibrary.simpleMessage(
-      "لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير",
     ),
     "language": MessageLookupByLibrary.simpleMessage("اللغة"),
     "locationPermissionsDenied": MessageLookupByLibrary.simpleMessage(
@@ -146,6 +144,9 @@ class MessageLookup extends MessageLookupByLibrary {
     "rememberGod": MessageLookupByLibrary.simpleMessage("اذكر الله"),
     "rememberGodAfterPrayer": MessageLookupByLibrary.simpleMessage(
       "اذكر الله بعد الصلاة",
+    ),
+    "repetIsOver": MessageLookupByLibrary.simpleMessage(
+      "تم الانتهاء من هذا الذكر",
     ),
     "reset": MessageLookupByLibrary.simpleMessage("إعادة التعيين"),
     "retry": MessageLookupByLibrary.simpleMessage("إعادة المحاولة"),

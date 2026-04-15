@@ -77,7 +77,6 @@
     "subhanAllah": "Subhan Allah",
     "alhamdulillah": "Alhamdulillah",
     "allahuAkbar": "Allahu Akbar",
-    "laIlahaIllaAllah": "La ilaha illa Allah, wahdahu la sharika lah...",
     "laHawlaWaLaQuwwataIllaBillah": "La hawla wa la quwwata illa billah",
     "subhanAllahWaBihamdihSubhanAllahAlAzim": "Subhan Allah wa bihamdih, Subhan Allah Al-Azim",
     "astaghfirullah": "Astaghfirullah",
@@ -88,5 +87,6 @@
     "surahArRadAyah28": "Surah Ar-Ra'd - Ayah 28",
     "anErrorOccurredTryAgain": "An error occurred, please try again",
     "appFeatures": "App Features",
-    "ahkam": "Ahkam"
+    "ahkam": "Ahkam",
+    "repetIsOver":"Repetition is over"
 }
