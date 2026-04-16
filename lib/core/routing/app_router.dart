@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quran_azkar/core/routing/routes.dart';
+import 'package:quran_azkar/feature/ui/screens/sebha/cubit/counter_cubit.dart';
 
 import '../../feature/logic/cubit/all_surahs_cubit.dart';
 import '../../feature/ui/on_boarding/on_boardin_screen.dart';

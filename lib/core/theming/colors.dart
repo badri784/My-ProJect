@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 class ColorsManger {
   static const black = Color(0xFF000000);
+  static const backgroundDark = Color(0xFF121212);
   // ignore: deprecated_member_use
   static final blackWithOpacity70 = const Color(0xFF000000).withOpacity(0.7);
   static const white = Color(0xFFFFFFFF);

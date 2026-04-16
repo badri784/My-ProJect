@@ -28,13 +28,22 @@ class _BottonNavigationState extends State<BottonNavigation> {
   ];
   @override
   Widget build(BuildContext context) {
+    final isDarkMode = Theme.of(context).brightness == Brightness.dark;
     return Scaffold(
-      backgroundColor: ColorsManger.backgroundWhite,
+      backgroundColor: isDarkMode
+          ? ColorsManger.backgroundDark
+          : ColorsManger.backgroundWhite,
       bottomNavigationBar: BottomNavigationBar(
-        selectedItemColor: ColorsManger.darlkGreen,
+        selectedItemColor: isDarkMode
+            ? ColorsManger.white
+            : ColorsManger.darlkGreen,
         showSelectedLabels: true,
-        unselectedItemColor: ColorsManger.blackWithOpacity70,
-        backgroundColor: ColorsManger.white,
+        unselectedItemColor: isDarkMode
+            ? ColorsManger.white
+            : ColorsManger.blackWithOpacity70,
+        backgroundColor: isDarkMode
+            ? ColorsManger.backgroundDark
+            : ColorsManger.backgroundWhite,
         type: BottomNavigationBarType.fixed,
         currentIndex: currentIndex,
         onTap: (index) {
@@ -44,23 +53,39 @@ class _BottonNavigationState extends State<BottonNavigation> {
         },
         items: [
           BottomNavigationBarItem(
-            icon: const Icon(Icons.home_outlined),
+            icon: Icon(
+              Icons.home_outlined,
+              color: isDarkMode ? ColorsManger.white : ColorsManger.black,
+            ),
+
             label: S.of(context).home,
           ),
           BottomNavigationBarItem(
-            icon: const Icon(Icons.adjust),
+            icon: Icon(
+              Icons.adjust,
+              color: isDarkMode ? ColorsManger.white : ColorsManger.black,
+            ),
             label: S.of(context).sebha,
           ),
           BottomNavigationBarItem(
-            icon: const Icon(Icons.wb_sunny),
+            icon: Icon(
+              Icons.wb_sunny,
+              color: isDarkMode ? ColorsManger.white : ColorsManger.black,
+            ),
             label: S.of(context).azkar,
           ),
           BottomNavigationBarItem(
-            icon: const Icon(Icons.menu_book_outlined),
+            icon: Icon(
+              Icons.menu_book_outlined,
+              color: isDarkMode ? ColorsManger.white : ColorsManger.black,
+            ),
             label: S.of(context).quran,
           ),
           BottomNavigationBarItem(
-            icon: const Icon(Icons.settings),
+            icon: Icon(
+              Icons.settings,
+              color: isDarkMode ? ColorsManger.white : ColorsManger.black,
+            ),
             label: S.of(context).settings,
           ),
         ],
