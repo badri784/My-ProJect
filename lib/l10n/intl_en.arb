@@ -1,6 +1,6 @@
 {
     "@@locale": "en",
-    "appTitle": "Quran",
+    "appTitle": "Life",
     "appTitle2": "Quran Reading",
     "alBasmalah": "Bismillah Al-Rahman Al-Rahim",
     "home": "Home",
@@ -88,5 +88,6 @@
     "anErrorOccurredTryAgain": "An error occurred, please try again",
     "appFeatures": "App Features",
     "ahkam": "Ahkam",
-    "repetIsOver":"Repetition is over"
+    "repetIsOver":"Repetition is over",
+    "switchLanguage":"Switch Language"
 }

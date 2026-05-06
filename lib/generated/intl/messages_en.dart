@@ -42,7 +42,7 @@ class MessageLookup extends MessageLookupByLibrary {
       "An error occurred, please try again",
     ),
     "appFeatures": MessageLookupByLibrary.simpleMessage("App Features"),
-    "appTitle": MessageLookupByLibrary.simpleMessage("Quran"),
+    "appTitle": MessageLookupByLibrary.simpleMessage("Life"),
     "appTitle2": MessageLookupByLibrary.simpleMessage("Quran Reading"),
     "arabic": MessageLookupByLibrary.simpleMessage("Arabic"),
     "asr": MessageLookupByLibrary.simpleMessage("Asr"),
@@ -180,6 +180,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "surahArRadAyah28": MessageLookupByLibrary.simpleMessage(
       "Surah Ar-Ra\'d - Ayah 28",
     ),
+    "switchLanguage": MessageLookupByLibrary.simpleMessage("Switch Language"),
     "termsAndConditions": MessageLookupByLibrary.simpleMessage(
       "Terms and Conditions",
     ),

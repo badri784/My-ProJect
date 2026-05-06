@@ -1,0 +1,41 @@
+{
+    "ahkam":[
+        {
+            "id":"e1",
+            "title":"",
+            "content":"",
+            "reference":"",
+            "category":"",
+            "image":"",
+            "url":""
+
+        },
+        {
+            "id":"e2",
+            "title":"",
+            "content":"",
+            "reference":"",
+            "category":"",
+            "image":"",
+            "url":""
+        },
+        {
+            "id":"e3",
+            "title":"",
+            "content":"",
+            "reference":"",
+            "category":"",
+            "image":"",
+            "url":""
+        },
+        {
+            "id":"e4",
+            "title":"",
+            "content":"",
+            "reference":"",
+            "category":"",
+            "image":"",
+            "url":""
+        }
+    ]
+}

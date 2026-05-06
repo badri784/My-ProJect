@@ -1,9 +1,9 @@
 {
     "@@locale": "ar",
-    "appTitle": "القرآن الكريم",
-    "appTitle2": "قراءة القرآن الكريم",
-    "home": "الرئيسية",
-    "quran": "القرآن",
+    "appTitle": "حياه",
+    "appTitle2": "قراءة القرآن الكريم",
+    "home": "الرئيسية",
+    "quran": "القرآن",
     "azkar": "الاذكار",
     "sebha": "السبحة",
     "settings": "الاعدادات",
@@ -89,5 +89,6 @@
     "anErrorOccurredTryAgain": "حدث خطأ، حاول مرة أخرى",
     "appFeatures": "مميزات التطبيق",
     "ahkam": "احكام",
-    "repetIsOver":"تم الانتهاء من هذا الذكر"
+    "repetIsOver":"تم الانتهاء من هذا الذكر",
+    "switchLanguage":"تغيير اللغة"
 }

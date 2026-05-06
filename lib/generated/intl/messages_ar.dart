@@ -42,8 +42,8 @@ class MessageLookup extends MessageLookupByLibrary {
       "حدث خطأ، حاول مرة أخرى",
     ),
     "appFeatures": MessageLookupByLibrary.simpleMessage("مميزات التطبيق"),
-    "appTitle": MessageLookupByLibrary.simpleMessage("القرآن الكريم"),
-    "appTitle2": MessageLookupByLibrary.simpleMessage("قراءة القرآن الكريم"),
+    "appTitle": MessageLookupByLibrary.simpleMessage("حياه"),
+    "appTitle2": MessageLookupByLibrary.simpleMessage("قراءة القرآن الكريم"),
     "arabic": MessageLookupByLibrary.simpleMessage("العربية"),
     "asr": MessageLookupByLibrary.simpleMessage("العصر"),
     "astaghfirullah": MessageLookupByLibrary.simpleMessage(
@@ -70,7 +70,7 @@ class MessageLookup extends MessageLookupByLibrary {
     ),
     "fajr": MessageLookupByLibrary.simpleMessage("الفجر"),
     "followUs": MessageLookupByLibrary.simpleMessage("تابعنا"),
-    "home": MessageLookupByLibrary.simpleMessage("الرئيسية"),
+    "home": MessageLookupByLibrary.simpleMessage("الرئيسية"),
     "isha": MessageLookupByLibrary.simpleMessage("العشاء"),
     "juz": MessageLookupByLibrary.simpleMessage("الجزء"),
     "laHawlaWaLaQuwwataIllaBillah": MessageLookupByLibrary.simpleMessage(
@@ -136,7 +136,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "questionsAndInquiries": MessageLookupByLibrary.simpleMessage(
       "أسئلة واستفسارات",
     ),
-    "quran": MessageLookupByLibrary.simpleMessage("القرآن"),
+    "quran": MessageLookupByLibrary.simpleMessage("القرآن"),
     "rateApp": MessageLookupByLibrary.simpleMessage("تقييم التطبيق"),
     "recitationAndReflection": MessageLookupByLibrary.simpleMessage(
       "تلاوه وتدبر",
@@ -173,6 +173,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "surahArRadAyah28": MessageLookupByLibrary.simpleMessage(
       "سورة الرعد - آية 28",
     ),
+    "switchLanguage": MessageLookupByLibrary.simpleMessage("تغيير اللغة"),
     "termsAndConditions": MessageLookupByLibrary.simpleMessage(
       "الشروط والاحكام",
     ),

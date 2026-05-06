@@ -54,9 +54,9 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `Quran`
+  /// `Life`
   String get appTitle {
-    return Intl.message('Quran', name: 'appTitle', desc: '', args: []);
+    return Intl.message('Life', name: 'appTitle', desc: '', args: []);
   }
 
   /// `Quran Reading`
@@ -784,6 +784,16 @@ class S {
     return Intl.message(
       'Repetition is over',
       name: 'repetIsOver',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Switch Language`
+  String get switchLanguage {
+    return Intl.message(
+      'Switch Language',
+      name: 'switchLanguage',
       desc: '',
       args: [],
     );

@@ -99,8 +99,8 @@ class _SebhaScreenState extends State<SebhaScreen> {
                                     overflow: TextOverflow.ellipsis,
                                     style: TextStyle(
                                       color: isDarkMode
-                                          ? ColorsManger.black
-                                          : ColorsManger.white,
+                                          ? ColorsManger.white
+                                          : ColorsManger.black,
                                       fontSize: fontSizeDropdown,
                                       fontWeight: FontWeightManger.medium,
                                     ),
@@ -141,7 +141,7 @@ class _SebhaScreenState extends State<SebhaScreen> {
                                 fontSize: fontSizeButton,
                                 color: isDarkMode
                                     ? ColorsManger.black
-                                    : ColorsManger.white,
+                                    : ColorsManger.black.withOpacity(0.7),
                               ),
                             ),
                           ),
