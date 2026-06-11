@@ -25,6 +25,7 @@ class _ZekrCardState extends State<ZekrCard> {
 
   @override
   Widget build(BuildContext context) {
+    final snackBar = ScaffoldMessenger.of(context);
     void onTapDownCounter() {
       if (widget.downcounter == 0) return;
       setState(() {
@@ -64,13 +65,12 @@ class _ZekrCardState extends State<ZekrCard> {
       child: BlocBuilder<SettingsCubit, SettingsState>(
         builder: (context, state) {
           final fontScale = state.fontScale;
-
           return GestureDetector(
             onLongPress: () async {
               await Clipboard.setData(
                 ClipboardData(text: widget.zekr.content!),
               );
-              ScaffoldMessenger.of(context).showSnackBar(
+              snackBar.showSnackBar(
                 SnackBar(
                   content: const Text('تم نسخ الذكر إلى الحافظة'),
                   duration: const Duration(seconds: 2),
