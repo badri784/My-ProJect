@@ -15,23 +15,24 @@ class AboutApplicationListTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    bool isDark = Theme.of(context).brightness == Brightness.dark;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       mainAxisSize: MainAxisSize.min,
       children: [
         Text(
           S.of(context).aboutApp,
-          style: const TextStyle(
+          style: TextStyle(
             fontSize: 18,
             fontWeight: FontWeightManger.semiBold,
-            color: ColorsManger.darkGrayTextSettings,
+            color: isDark ? Colors.white : ColorsManger.darkGrayTextSettings,
           ),
         ),
         verticalSpace(10),
         Container(
           padding: EdgeInsets.all(10.sp),
           decoration: BoxDecoration(
-            color: ColorsManger.white,
+            color: isDark ? Colors.white.withOpacity(0.1) : ColorsManger.white,
             borderRadius: BorderRadius.circular(10.r),
           ),
           child: Column(

@@ -13,36 +13,35 @@ class SwitchListTileWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocBuilder<SettingsCubit, SettingsState>(
       builder: (context, state) {
+        bool isDark = Theme.of(context).brightness == Brightness.dark;
         return Container(
           padding: EdgeInsets.all(10.sp),
           decoration: BoxDecoration(
-            color: ColorsManger.white,
+            color: isDark ? Colors.white.withOpacity(0.1) : ColorsManger.white,
             borderRadius: BorderRadius.circular(10.r),
           ),
           child: Column(
             children: [
               // ── Dark‑Mode Toggle ─────────────────────────────────────
-              SwitchListTile(
-                title: const Text('Dark Mode'),
-                value: false,
-                onChanged: (value) {
-                  // TODO: Implement dark mode toggle functionality
-                },
-              ),
-
-              const Divider(height: 1),
+              // SwitchListTile(
+              //   title: const Text('Dark Mode'),
+              //   value: false,
+              //   onChanged: (value) {
+              //   },
+              // ),
+              // const Divider(height: 1),
 
               // ── Language Toggle (Arabic ↔ English) ───────────────────
               SwitchListTile(
-                secondary: const Icon(
+                secondary: Icon(
                   Icons.language,
-                  color: ColorsManger.darlkGreen,
+                  color: isDark
+                      ? Colors.white.withOpacity(0.1)
+                      : ColorsManger.white,
                 ),
                 title: Text(S.of(context).language),
                 subtitle: Text(
-                  state.isArabic
-                      ? S.of(context).arabic
-                      : S.of(context).english,
+                  state.isArabic ? S.of(context).arabic : S.of(context).english,
                   style: TextStyle(
                     fontSize: 12.sp,
                     color: ColorsManger.darkGrayTextSettings,

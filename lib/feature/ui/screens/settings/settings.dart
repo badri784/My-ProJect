@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:quran_azkar/core/helpers/padding.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
+import 'package:quran_azkar/core/theming/font_weght.dart';
 import 'package:quran_azkar/core/theming/text_styles.dart';
 import 'package:quran_azkar/feature/ui/screens/settings/widget/about_application_listtile.dart';
 import 'package:quran_azkar/feature/ui/screens/settings/widget/switch_list_tile_widget.dart';
@@ -13,11 +14,21 @@ class SettingsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    bool isDark = Theme.of(context).brightness == Brightness.dark;
     return Scaffold(
-      backgroundColor: ColorsManger.backgroundWhite,
+      backgroundColor: isDark ? Colors.black : ColorsManger.backgroundWhite,
       appBar: AppBar(
-        backgroundColor: ColorsManger.backgroundWhite,
-        title: Text(S.of(context).settings, style: TextStyles.font26BlackBold),
+        backgroundColor: isDark ? Colors.black : ColorsManger.backgroundWhite,
+        title: Text(
+          S.of(context).settings,
+          style: isDark
+              ? const TextStyle(
+                  fontSize: 24,
+                  color: Colors.white,
+                  fontWeight: FontWeightManger.bold,
+                )
+              : TextStyles.font26BlackBold,
+        ),
       ),
       body: SingleChildScrollView(
         child: Padding(
