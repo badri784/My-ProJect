@@ -17,14 +17,19 @@ class DisplayZekr extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    bool isDark = Theme.of(context).brightness == Brightness.dark;
     return BlocProvider<ZekrCubit>(
       create: (context) =>
           ZekrCubit()..loadAzkar(fileName: fileName, jsonKey: jsonKey),
       child: Scaffold(
-        backgroundColor: ColorsManger.offWhite,
+        backgroundColor: isDark
+            ? ColorsManger.backgroundDark
+            : ColorsManger.offWhite,
         appBar: AppBar(
           title: Text(title),
-          backgroundColor: ColorsManger.offWhite,
+          backgroundColor: isDark
+              ? ColorsManger.backgroundDark
+              : ColorsManger.offWhite,
         ),
         body: SafeArea(
           child: BlocBuilderAllAzkar(fileName: fileName, jsonKey: jsonKey),

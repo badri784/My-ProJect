@@ -34,18 +34,8 @@ class _ZekrCardState extends State<ZekrCard> {
       if (widget.downcounter == 0) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            // backgroundColor: Colors.red,
             dismissDirection: DismissDirection.horizontal,
             clipBehavior: Clip.hardEdge,
-            //  persistentFooterButtons: true,
-            // showCloseIcon: true,
-
-            // action: SnackBarAction(
-            //   label: 'close',
-            //   onPressed: () {
-            //     ScaffoldMessenger.of(context).hideCurrentSnackBar();
-            //   },
-            // ),
             content: Text(S.of(context).repetIsOver),
             duration: const Duration(seconds: 2),
             behavior: SnackBarBehavior.floating,

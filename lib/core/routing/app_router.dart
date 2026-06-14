@@ -9,7 +9,7 @@ import '../../feature/ui/on_boarding/on_bording_screnn_two.dart';
 import '../../feature/ui/screens/about_application/contact_us_screen.dart';
 import '../../feature/ui/screens/about_application/privacy_policy_screen.dart';
 import '../../feature/ui/screens/about_application/terms_and_conditions_screen.dart';
-import '../../feature/ui/screens/azkar/home/azkar.dart';
+import '../../feature/ui/screens/azkar/azkar_screen/azkar_screen.dart';
 import '../../feature/ui/screens/azkar/evening.dart';
 import '../../feature/ui/screens/azkar/moorning.dart';
 import '../../feature/ui/screens/quran/cubit/quran_cubit.dart';

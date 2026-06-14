@@ -16,6 +16,7 @@ class ZekrCardColumn extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    bool isZero = widget.downcounter != 0;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
@@ -71,17 +72,19 @@ class ZekrCardColumn extends StatelessWidget {
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               decoration: BoxDecoration(
                 color: Colors.teal.withOpacity(0.1),
-                borderRadius: BorderRadius.circular(16),
+                borderRadius: BorderRadius.circular(12),
                 border: Border.all(color: Colors.teal.withOpacity(0.5)),
               ),
-              child: Text(
-                'التكرار: ${widget.downcounter}',
-                style: TextStyle(
-                  fontSize: 14 * fontScale,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.teal,
-                ),
-              ),
+              child: isZero
+                  ? Text(
+                      'التكرار: ${widget.downcounter}',
+                      style: TextStyle(
+                        fontSize: 14 * fontScale,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.teal,
+                      ),
+                    )
+                  : const Icon(Icons.done_all),
             ),
           ),
       ],
