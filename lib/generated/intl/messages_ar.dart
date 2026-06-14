@@ -42,7 +42,7 @@ class MessageLookup extends MessageLookupByLibrary {
       "حدث خطأ، حاول مرة أخرى",
     ),
     "appFeatures": MessageLookupByLibrary.simpleMessage("مميزات التطبيق"),
-    "appTitle": MessageLookupByLibrary.simpleMessage("حياه"),
+    "appTitle": MessageLookupByLibrary.simpleMessage("مؤمن"),
     "appTitle2": MessageLookupByLibrary.simpleMessage("قراءة القرآن الكريم"),
     "arabic": MessageLookupByLibrary.simpleMessage("العربية"),
     "asr": MessageLookupByLibrary.simpleMessage("العصر"),

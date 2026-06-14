@@ -6,8 +6,8 @@ import 'package:intl/intl.dart';
 import 'package:quran_azkar/core/helpers/padding.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
 
-import '../../logic/cubit/prayer_time_cubit.dart';
-import '../../logic/cubit/prayer_time_state.dart';
+import '../../../../logic/cubit/prayer_time_cubit.dart';
+import '../../../../logic/cubit/prayer_time_state.dart';
 import 'package:quran_azkar/generated/l10n.dart';
 
 class PrayerTimeWidget extends StatelessWidget {
@@ -15,6 +15,7 @@ class PrayerTimeWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    bool isDark = Theme.of(context).brightness == Brightness.dark;
     return BlocProvider(
       create: (context) => PrayerTimeCubit()..getPrayerTimes(),
       child: BlocBuilder<PrayerTimeCubit, PrayerTimeState>(
@@ -23,7 +24,9 @@ class PrayerTimeWidget extends StatelessWidget {
             return const Padding(
               padding: EdgeInsets.all(20.0),
               child: Center(
-                child: CircularProgressIndicator(color: ColorsManger.lightGreen),
+                child: CircularProgressIndicator(
+                  color: ColorsManger.lightGreen,
+                ),
               ),
             );
           } else if (state is PrayerTimeError) {
@@ -44,17 +47,21 @@ class PrayerTimeWidget extends StatelessWidget {
                       String errorMessage = state.message;
                       if (errorMessage == 'Location services are disabled.') {
                         errorMessage = S.of(context).locationServicesDisabled;
-                      } else if (errorMessage == 'Location permissions are denied') {
+                      } else if (errorMessage ==
+                          'Location permissions are denied') {
                         errorMessage = S.of(context).locationPermissionsDenied;
-                      } else if (errorMessage == 'Location permissions are permanently denied, we cannot request permissions.') {
-                        errorMessage = S.of(context).locationPermissionsPermanentlyDenied;
+                      } else if (errorMessage ==
+                          'Location permissions are permanently denied, we cannot request permissions.') {
+                        errorMessage = S
+                            .of(context)
+                            .locationPermissionsPermanentlyDenied;
                       }
                       return Text(
                         errorMessage,
                         textAlign: TextAlign.center,
                         style: const TextStyle(color: Colors.red),
                       );
-                    }
+                    },
                   ),
                   verticalSpace(10),
                   ElevatedButton(
@@ -67,7 +74,7 @@ class PrayerTimeWidget extends StatelessWidget {
                       elevation: 0,
                     ),
                     child: Text(S.of(context).retry),
-                  )
+                  ),
                 ],
               ),
             );
@@ -82,94 +89,117 @@ class PrayerTimeWidget extends StatelessWidget {
 
   Widget _buildPrayerTimesUI(BuildContext context, PrayerTimes prayerTimes) {
     final nextPrayer = prayerTimes.nextPrayer();
-    
-    return Container(
-      margin: const EdgeInsets.only(top: 20, bottom: 10),
-      width: double.infinity,
-      decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(16),
-        gradient: const LinearGradient(
-          colors: [ColorsManger.darlkGreen, ColorsManger.lightGreen],
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
+    bool isDark = Theme.of(context).brightness == Brightness.dark;
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          S.of(context).prayerTimes,
+          style: GoogleFonts.amiriQuran(
+            fontSize: 22,
+            color: isDark ? Colors.white : Colors.black,
+            fontWeight: FontWeight.bold,
+          ),
         ),
-        boxShadow: [
-          BoxShadow(
-            color: ColorsManger.darlkGreen.withOpacity(0.3),
-            blurRadius: 10,
-            offset: const Offset(0, 5),
-          )
-        ],
-      ),
-      child: Column(
-        children: [
-          verticalSpace(12),
-          Text(
-            S.of(context).prayerTimes,
-            style: GoogleFonts.amiriQuran(
-              fontSize: 22,
-              color: Colors.white,
-              fontWeight: FontWeight.bold,
-            ),
-          ),
-          verticalSpace(16),
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 10),
-            child: SingleChildScrollView(
-              scrollDirection: Axis.horizontal,
-              physics: const BouncingScrollPhysics(),
-              child: Row(
-                children: [
-                  _buildPrayerCard(S.of(context).fajr, prayerTimes.fajr, nextPrayer == Prayer.fajr, Icons.wb_twilight),
-                  _buildPrayerCard(S.of(context).sunrise, prayerTimes.sunrise, nextPrayer == Prayer.sunrise, Icons.wb_sunny_outlined),
-                  _buildPrayerCard(S.of(context).dhuhr, prayerTimes.dhuhr, nextPrayer == Prayer.dhuhr, Icons.sunny),
-                  _buildPrayerCard(S.of(context).asr, prayerTimes.asr, nextPrayer == Prayer.asr, Icons.wb_sunny),
-                  _buildPrayerCard(S.of(context).maghrib, prayerTimes.maghrib, nextPrayer == Prayer.maghrib, Icons.nights_stay_outlined),
-                  _buildPrayerCard(S.of(context).isha, prayerTimes.isha, nextPrayer == Prayer.isha, Icons.nights_stay),
-                ],
+        verticalSpace(15),
+        SingleChildScrollView(
+          scrollDirection: Axis.horizontal,
+          physics: const BouncingScrollPhysics(),
+          child: Row(
+            children: [
+              _buildPrayerCard(
+                S.of(context).fajr,
+                prayerTimes.fajr,
+                nextPrayer == Prayer.fajr,
+                Icons.wb_twilight,
+                isDark,
               ),
-            ),
+              _buildPrayerCard(
+                S.of(context).sunrise,
+                prayerTimes.sunrise,
+                nextPrayer == Prayer.sunrise,
+                Icons.wb_sunny_outlined,
+                isDark,
+              ),
+              _buildPrayerCard(
+                S.of(context).dhuhr,
+                prayerTimes.dhuhr,
+                nextPrayer == Prayer.dhuhr,
+                Icons.sunny,
+                isDark,
+              ),
+              _buildPrayerCard(
+                S.of(context).asr,
+                prayerTimes.asr,
+                nextPrayer == Prayer.asr,
+                Icons.wb_sunny,
+                isDark,
+              ),
+              _buildPrayerCard(
+                S.of(context).maghrib,
+                prayerTimes.maghrib,
+                nextPrayer == Prayer.maghrib,
+                Icons.nights_stay_outlined,
+                isDark,
+              ),
+              _buildPrayerCard(
+                S.of(context).isha,
+                prayerTimes.isha,
+                nextPrayer == Prayer.isha,
+                Icons.nights_stay,
+                isDark,
+              ),
+            ],
           ),
-          verticalSpace(16),
-        ],
-      ),
+        ),
+        verticalSpace(16),
+      ],
     );
   }
 
-  Widget _buildPrayerCard(String name, DateTime time, bool isNext, IconData icon) {
+  Widget _buildPrayerCard(
+    String name,
+    DateTime time,
+    bool isNext,
+    IconData icon,
+    bool isDark,
+  ) {
     // Format the time as h:mm a
     final formattedTime = DateFormat('h:mm a').format(time);
-    
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 5),
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
       decoration: BoxDecoration(
-        color: isNext ? Colors.white : Colors.white.withOpacity(0.15),
+        color: isDark ? Colors.white.withOpacity(0.1) : ColorsManger.lightGreen,
         borderRadius: BorderRadius.circular(14),
-        border: isNext ? Border.all(color: Colors.amber, width: 2) : null,
+        border: isNext
+            ? const Border(left: BorderSide(color: Colors.amber, width: 3))
+            : null,
       ),
       child: Column(
         children: [
-          Icon(
-            icon,
-            color: isNext ? ColorsManger.darlkGreen : Colors.white,
-            size: 28,
-          ),
-          verticalSpace(8),
           Text(
             name,
-            style: GoogleFonts.cairo( // using a common readable font here
+            style: GoogleFonts.cairo(
+              // using a common readable font here
               fontSize: 16,
-              color: isNext ? ColorsManger.darlkGreen : Colors.white,
+              color: isNext ? Colors.white : Colors.white.withOpacity(0.7),
               fontWeight: isNext ? FontWeight.bold : FontWeight.w600,
             ),
+          ),
+
+          verticalSpace(8),
+          Icon(
+            icon,
+            color: isNext ? Colors.white : Colors.white.withOpacity(0.7),
+            size: 28,
           ),
           verticalSpace(4),
           Text(
             formattedTime,
             style: GoogleFonts.cairo(
               fontSize: 14,
-              color: isNext ? ColorsManger.darlkGreen : Colors.white.withOpacity(0.9),
+              color: isNext ? Colors.white : Colors.white.withOpacity(0.7),
               fontWeight: FontWeight.w600,
             ),
           ),

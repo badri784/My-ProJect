@@ -1,6 +1,6 @@
 {
     "@@locale": "ar",
-    "appTitle": "حياه",
+    "appTitle": "مؤمن",
     "appTitle2": "قراءة القرآن الكريم",
     "home": "الرئيسية",
     "quran": "القرآن",
@@ -77,7 +77,6 @@
     "subhanAllah": "سبحان الله",
     "alhamdulillah": "الحمد لله",
     "allahuAkbar": "الله أكبر",
-
     "laHawlaWaLaQuwwataIllaBillah": "لا حول ولا قوة إلا بالله العلي العظيم",
     "subhanAllahWaBihamdihSubhanAllahAlAzim": "سبحان الله وبحمده سبحان الله العظيم",
     "astaghfirullah": "استغفر الله العظيم",
@@ -89,6 +88,6 @@
     "anErrorOccurredTryAgain": "حدث خطأ، حاول مرة أخرى",
     "appFeatures": "مميزات التطبيق",
     "ahkam": "احكام",
-    "repetIsOver":"تم الانتهاء من هذا الذكر",
-    "switchLanguage":"تغيير اللغة"
+    "repetIsOver": "تم الانتهاء من هذا الذكر",
+    "switchLanguage": "تغيير اللغة"
 }

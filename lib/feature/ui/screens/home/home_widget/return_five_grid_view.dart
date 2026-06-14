@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:quran_azkar/core/helpers/extension.dart';
 import 'package:quran_azkar/core/routing/routes.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
-import 'package:quran_azkar/feature/ui/widget/home_grid_view.dart';
+import 'package:quran_azkar/feature/ui/screens/home/home_widget/home_grid_view.dart';
 import 'package:quran_azkar/generated/l10n.dart';
 
 class ReturnFiveGridView extends StatelessWidget {
@@ -18,7 +18,7 @@ class ReturnFiveGridView extends StatelessWidget {
       shrinkWrap: true,
       physics: const BouncingScrollPhysics(),
       children: [
-        HomeGridView(
+        HomeCard(
           onTap: () {
             context.pushnamed(Routes.quran);
           },
@@ -31,7 +31,7 @@ class ReturnFiveGridView extends StatelessWidget {
 
           // subtitle: Text(S.of(context).recitationAndReflection),
         ),
-        HomeGridView(
+        HomeCard(
           onTap: () {
             context.pushnamed(Routes.azkar);
           },
@@ -40,7 +40,7 @@ class ReturnFiveGridView extends StatelessWidget {
           title: Text(S.of(context).azkar),
           // subtitle: Text(S.of(context).dailyAzkar),
         ),
-        HomeGridView(
+        HomeCard(
           onTap: () {
             context.pushnamed(Routes.sebha);
           },
@@ -49,7 +49,7 @@ class ReturnFiveGridView extends StatelessWidget {
           title: Text(S.of(context).sebha),
           // subtitle: Text(S.of(context).rememberGod),
         ),
-        HomeGridView(
+        HomeCard(
           onTap: () {
             context.pushnamed(Routes.qibla);
           },
@@ -58,7 +58,7 @@ class ReturnFiveGridView extends StatelessWidget {
           title: Text(S.of(context).qiblaTitle),
           // subtitle: Text(S.of(context).qiblaDirection),
         ),
-        HomeGridView(
+        HomeCard(
           icon: const Icon(Icons.help_outline, color: ColorsManger.lightGreen),
           onTap: () {
             context.pushnamed(Routes.ahkam);

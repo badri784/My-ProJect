@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
 import 'package:quran_azkar/feature/ui/screens/azkar/home/azkar.dart';
-import 'package:quran_azkar/feature/ui/screens/home_screen.dart';
+import 'package:quran_azkar/feature/ui/screens/home/home_screen.dart';
 import 'package:quran_azkar/feature/ui/screens/quran/cubit/quran_cubit.dart';
 import 'package:quran_azkar/feature/ui/screens/quran/screen/quran.dart';
 import 'package:quran_azkar/feature/ui/screens/sebha/sebha.dart';

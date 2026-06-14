@@ -42,7 +42,7 @@ class MessageLookup extends MessageLookupByLibrary {
       "An error occurred, please try again",
     ),
     "appFeatures": MessageLookupByLibrary.simpleMessage("App Features"),
-    "appTitle": MessageLookupByLibrary.simpleMessage("Life"),
+    "appTitle": MessageLookupByLibrary.simpleMessage("Mo\'men"),
     "appTitle2": MessageLookupByLibrary.simpleMessage("Quran Reading"),
     "arabic": MessageLookupByLibrary.simpleMessage("Arabic"),
     "asr": MessageLookupByLibrary.simpleMessage("Asr"),

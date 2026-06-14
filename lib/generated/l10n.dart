@@ -54,9 +54,9 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `Life`
+  /// `Mo'men`
   String get appTitle {
-    return Intl.message('Life', name: 'appTitle', desc: '', args: []);
+    return Intl.message('Mo\'men', name: 'appTitle', desc: '', args: []);
   }
 
   /// `Quran Reading`

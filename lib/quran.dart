@@ -22,8 +22,7 @@ class Quran extends StatelessWidget {
         child: BlocBuilder<SettingsCubit, SettingsState>(
           builder: (context, settingsState) {
             return MaterialApp(
-              title: settingsState.isArabic ? 'حياه' : 'Life',
-              theme: ThemeData(brightness: Brightness.light),
+              theme: ThemeData(brightness: Brightness.dark),
               locale: settingsState.locale,
               localizationsDelegates: [
                 S.delegate,
