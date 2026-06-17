@@ -35,66 +35,69 @@ class AboutApplicationListTile extends StatelessWidget {
             color: isDark ? Colors.white.withOpacity(0.1) : ColorsManger.white,
             borderRadius: BorderRadius.circular(10.r),
           ),
-          child: Column(
-            children: [
-              ListTileWidget(
-                title: Text(S.of(context).aboutApp),
-                leading: const LeadingIconWidget(
-                  child: Center(
-                    child: Icon(Icons.error, color: ColorsManger.lightGreen),
-                  ),
-                ),
-                trailing: const Icon(Icons.arrow_forward_ios, size: 15),
-                ontap: () {
-                  context.pushnamed(Routes.about);
-                },
-              ),
-              verticalSpace(10),
-              ListTileWidget(
-                ontap: () {
-                  context.pushnamed(Routes.privacyPolicy);
-                },
-                title: Text(S.of(context).privacyPolicy),
-                leading: const LeadingIconWidget(
-                  child: Center(
-                    child: Icon(
-                      Icons.privacy_tip,
-                      color: ColorsManger.darlkGreen,
+          child: Material(
+            type: MaterialType.transparency,
+            child: Column(
+              children: [
+                ListTileWidget(
+                  title: Text(S.of(context).aboutApp),
+                  leading: const LeadingIconWidget(
+                    child: Center(
+                      child: Icon(Icons.error, color: ColorsManger.lightGreen),
                     ),
                   ),
+                  trailing: const Icon(Icons.arrow_forward_ios, size: 15),
+                  ontap: () {
+                    context.pushnamed(Routes.about);
+                  },
                 ),
-                trailing: const Icon(Icons.arrow_forward_ios, size: 15),
-              ),
-              verticalSpace(10),
-              ListTileWidget(
-                ontap: () {
-                  context.pushnamed(Routes.termsAndConditions);
-                },
-                title: Text(S.of(context).termsAndConditions),
-                leading: const LeadingIconWidget(
-                  child: Center(
-                    child: Icon(
-                      Icons.description,
-                      color: ColorsManger.lightGreen,
+                verticalSpace(10),
+                ListTileWidget(
+                  ontap: () {
+                    context.pushnamed(Routes.privacyPolicy);
+                  },
+                  title: Text(S.of(context).privacyPolicy),
+                  leading: const LeadingIconWidget(
+                    child: Center(
+                      child: Icon(
+                        Icons.privacy_tip,
+                        color: ColorsManger.darlkGreen,
+                      ),
                     ),
                   ),
+                  trailing: const Icon(Icons.arrow_forward_ios, size: 15),
                 ),
-                trailing: const Icon(Icons.arrow_forward_ios, size: 15),
-              ),
-              verticalSpace(10),
-              ListTileWidget(
-                ontap: () {
-                  context.pushnamed(Routes.contactUs);
-                },
-                title: Text(S.of(context).contactUs),
-                leading: const LeadingIconWidget(
-                  child: Center(
-                    child: Icon(Icons.message, color: ColorsManger.darlkGreen),
+                verticalSpace(10),
+                ListTileWidget(
+                  ontap: () {
+                    context.pushnamed(Routes.termsAndConditions);
+                  },
+                  title: Text(S.of(context).termsAndConditions),
+                  leading: const LeadingIconWidget(
+                    child: Center(
+                      child: Icon(
+                        Icons.description,
+                        color: ColorsManger.lightGreen,
+                      ),
+                    ),
                   ),
+                  trailing: const Icon(Icons.arrow_forward_ios, size: 15),
                 ),
-                trailing: const Icon(Icons.arrow_forward_ios, size: 15),
-              ),
-            ],
+                verticalSpace(10),
+                ListTileWidget(
+                  ontap: () {
+                    context.pushnamed(Routes.contactUs);
+                  },
+                  title: Text(S.of(context).contactUs),
+                  leading: const LeadingIconWidget(
+                    child: Center(
+                      child: Icon(Icons.message, color: ColorsManger.darlkGreen),
+                    ),
+                  ),
+                  trailing: const Icon(Icons.arrow_forward_ios, size: 15),
+                ),
+              ],
+            ),
           ),
         ),
       ],

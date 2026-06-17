@@ -15,14 +15,15 @@ class QuranScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    bool isDark = Theme.of(context).brightness == Brightness.dark;
     return Scaffold(
-      backgroundColor: ColorsManger.backgroundWhite,
+      backgroundColor: isDark ? Colors.black : ColorsManger.backgroundWhite,
       appBar: AppBar(
-        backgroundColor: ColorsManger.backgroundWhite,
+        backgroundColor: isDark ? Colors.black : ColorsManger.backgroundWhite,
         title: Text(
           S.of(context).appTitle,
           style: TextStyle(
-            color: Colors.black,
+            color: isDark ? Colors.white : Colors.black,
             fontSize: 26.sp,
             fontWeight: FontWeightManger.extraBold,
           ),

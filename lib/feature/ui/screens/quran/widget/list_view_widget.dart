@@ -17,6 +17,7 @@ class ListViewWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    bool isDark = Theme.of(context).brightness == Brightness.dark;
     return BlocBuilder<QuranCubit, QuranState>(
       builder: (context, state) {
         final filteredSurahs = state.filteredSurahs;
@@ -52,7 +53,13 @@ class ListViewWidget extends StatelessWidget {
                   isArabic()
                       ? quran.getSurahNameArabic(index + 1)
                       : quran.getSurahNameEnglish(index + 1),
-                  style: TextStyles.font19BlackSemiBold,
+                  style: isDark
+                      ? TextStyle(
+                          color: Colors.white,
+                          fontSize: 19.sp,
+                          fontWeight: FontWeightManger.semiBold,
+                        )
+                      : TextStyles.font19BlackSemiBold,
                 ),
                 subtitle: Text(quran.getSurahNameEnglish(index + 1)),
                 trailing: Padding(
@@ -61,8 +68,24 @@ class ListViewWidget extends StatelessWidget {
                     children: [
                       Text(
                         '${quran.getVerseCount(index + 1).toString()} ${S.of(context).ayah}',
+                        style: isDark
+                            ? TextStyle(
+                                color: Colors.white,
+                                fontSize: 10.sp,
+                                fontWeight: FontWeightManger.semiBold,
+                              )
+                            : TextStyles.font19BlackSemiBold,
                       ),
-                      Text(quran.getPlaceOfRevelation(index + 1)),
+                      Text(
+                        quran.getPlaceOfRevelation(index + 1),
+                        style: isDark
+                            ? TextStyle(
+                                color: Colors.white,
+                                fontSize: 10.sp,
+                                fontWeight: FontWeightManger.semiBold,
+                              )
+                            : TextStyles.font19BlackSemiBold,
+                      ),
                     ],
                   ),
                 ),

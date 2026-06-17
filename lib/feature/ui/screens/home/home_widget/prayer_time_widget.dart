@@ -21,11 +21,19 @@ class PrayerTimeWidget extends StatelessWidget {
       child: BlocBuilder<PrayerTimeCubit, PrayerTimeState>(
         builder: (context, state) {
           if (state is PrayerTimeLoading) {
-            return const Padding(
-              padding: EdgeInsets.all(20.0),
+            return Padding(
+              padding: const EdgeInsets.all(20.0),
               child: Center(
-                child: CircularProgressIndicator(
-                  color: ColorsManger.lightGreen,
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+
+                  children: [
+                    const CircularProgressIndicator(
+                      color: ColorsManger.lightGreen,
+                    ),
+                    verticalSpace(10),
+                    const Text('جاري حساب مواقيت الصلاه...'),
+                  ],
                 ),
               ),
             );
