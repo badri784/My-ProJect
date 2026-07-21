@@ -1,10 +1,10 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:quran_azkar/core/routing/app_router.dart';
 import 'package:quran_azkar/core/routing/routes.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:quran_azkar/feature/logic/cubit/settings_cubit.dart';
+import 'package:quran_azkar/feature/settings/logic/cubit/settings_cubit.dart';
 import 'package:quran_azkar/generated/l10n.dart';
 
 class Quran extends StatelessWidget {

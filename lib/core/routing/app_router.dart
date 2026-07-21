@@ -2,26 +2,26 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quran_azkar/core/routing/routes.dart';
 
-import '../../feature/logic/cubit/all_surahs_cubit.dart';
-import '../../feature/on_boarding/on_boardin_screen.dart';
-import '../../feature/on_boarding/on_boarding_screen_three.dart';
-import '../../feature/on_boarding/on_bording_screnn_two.dart';
-import '../../feature/ui/screens/about_application/contact_us_screen.dart';
-import '../../feature/ui/screens/about_application/privacy_policy_screen.dart';
-import '../../feature/ui/screens/about_application/terms_and_conditions_screen.dart';
-import '../../feature/ui/screens/azkar/azkar_screen/azkar_screen.dart';
-import '../../feature/ui/screens/azkar/evening.dart';
-import '../../feature/ui/screens/azkar/moorning.dart';
-import '../../feature/ui/screens/quran/cubit/quran_cubit.dart';
-import '../../feature/ui/screens/quran/screen/quran.dart';
-import '../../feature/ui/screens/quran/screen/surah.dart';
-import '../../feature/widget/bottom_navigation.dart';
-import '../../feature/ui/screens/about_application/about_application_screen.dart';
-import '../../feature/ui/screens/ahkam/ahkam.dart';
-import '../../feature/ui/screens/azkar/post_pryar.dart';
-import '../../feature/ui/screens/azkar/sleeping.dart';
-import '../../feature/ui/screens/qibla/qibla.dart';
-import '../../feature/ui/screens/sebha/sebha.dart';
+import 'package:quran_azkar/feature/quran/logic/cubit/all_surahs_cubit.dart';
+import 'package:quran_azkar/feature/on_boarding/ui/on_boardin_screen.dart';
+import 'package:quran_azkar/feature/on_boarding/ui/on_boarding_screen_three.dart';
+import 'package:quran_azkar/feature/on_boarding/ui/on_bording_screnn_two.dart';
+import 'package:quran_azkar/feature/about_application/ui/contact_us_screen.dart';
+import 'package:quran_azkar/feature/about_application/ui/privacy_policy_screen.dart';
+import 'package:quran_azkar/feature/about_application/ui/terms_and_conditions_screen.dart';
+import 'package:quran_azkar/feature/azkar/ui/azkar_screen.dart';
+import 'package:quran_azkar/feature/azkar/ui/evening.dart';
+import 'package:quran_azkar/feature/azkar/ui/moorning.dart';
+import 'package:quran_azkar/feature/quran/logic/cubit/quran_cubit.dart';
+import 'package:quran_azkar/feature/quran/ui/quran_screen.dart';
+import 'package:quran_azkar/feature/quran/ui/surah_screen.dart';
+import 'package:quran_azkar/feature/shared/widgets/bottom_navigation.dart';
+import 'package:quran_azkar/feature/about_application/ui/about_application_screen.dart';
+import 'package:quran_azkar/feature/ahkam/ui/ahkam_screen.dart';
+import 'package:quran_azkar/feature/azkar/ui/post_pryar.dart';
+import 'package:quran_azkar/feature/azkar/ui/sleeping.dart';
+import 'package:quran_azkar/feature/qibla/ui/qibla_screen.dart';
+import 'package:quran_azkar/feature/sebha/ui/sebha_screen.dart';
 
 class AppRouter {
   Route onGenerateRoute(RouteSettings settings) {
