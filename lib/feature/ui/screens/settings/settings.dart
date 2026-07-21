@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:quran_azkar/core/helpers/padding.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
 import 'package:quran_azkar/core/theming/font_weght.dart';
 import 'package:quran_azkar/core/theming/text_styles.dart';
+import 'package:quran_azkar/core/utils/responsive_helper.dart';
 import 'package:quran_azkar/feature/ui/screens/settings/widget/about_application_listtile.dart';
 import 'package:quran_azkar/feature/ui/screens/settings/widget/switch_list_tile_widget.dart';
 
@@ -22,8 +23,8 @@ class SettingsScreen extends StatelessWidget {
         title: Text(
           S.of(context).settings,
           style: isDark
-              ? const TextStyle(
-                  fontSize: 24,
+              ? TextStyle(
+                  fontSize: 24.clampSp(),
                   color: Colors.white,
                   fontWeight: FontWeightManger.bold,
                 )

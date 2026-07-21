@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../../../../core/helpers/padding.dart';
-import '../../../../core/theming/text_styles.dart';
-import '../../../../generated/l10n.dart';
+import '../../../core/helpers/padding.dart';
+import '../../../core/theming/text_styles.dart';
+import '../../../generated/l10n.dart';
 
 class OnBoardingText extends StatelessWidget {
   const OnBoardingText({super.key});

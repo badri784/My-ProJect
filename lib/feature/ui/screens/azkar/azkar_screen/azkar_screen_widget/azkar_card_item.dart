@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
 import 'package:quran_azkar/core/theming/font_weght.dart';
 import 'package:quran_azkar/core/theming/text_styles.dart';

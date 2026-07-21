@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:quran_azkar/core/helpers/extension.dart';
 import 'package:quran_azkar/core/helpers/padding.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
 import 'package:quran_azkar/core/theming/text_styles.dart';
-import 'package:quran_azkar/feature/ui/on_boarding/widget/on_boarding_botton.dart';
+import 'package:quran_azkar/feature/on_boarding/widget/on_boarding_botton.dart';
 
-import '../../../core/routing/routes.dart';
-import '../../../generated/l10n.dart';
+import '../../core/routing/routes.dart';
+import '../../generated/l10n.dart';
 
 class OnBoardingScreenThree extends StatelessWidget {
   const OnBoardingScreenThree({super.key});

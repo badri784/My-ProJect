@@ -78,7 +78,29 @@ class PrayerTimeCubit extends Cubit<PrayerTimeState> {
       params.madhab = Madhab.shafi;
       final date = DateComponents.from(DateTime.now());
       final prayerTimes = PrayerTimes(myCoordinates, date, params);
-      emit(PrayerTimeLoaded(prayerTimes));
+
+      // Resolve the next prayer — if all prayers for the day are done
+      // (Prayer.none), fall back to tomorrow's Fajr.
+      final Prayer nextPrayerEnum = prayerTimes.nextPrayer();
+      String nextPrayerName;
+      DateTime? nextPrayerTime;
+
+      if (nextPrayerEnum == Prayer.none) {
+        nextPrayerName = Prayer.fajr.name;
+        final tomorrow = DateTime.now().add(const Duration(days: 1));
+        final tomorrowDate = DateComponents.from(tomorrow);
+        final tomorrowPrayers = PrayerTimes(myCoordinates, tomorrowDate, params);
+        nextPrayerTime = tomorrowPrayers.fajr;
+      } else {
+        nextPrayerName = nextPrayerEnum.name;
+        nextPrayerTime = prayerTimes.timeForPrayer(nextPrayerEnum);
+      }
+
+      emit(PrayerTimeLoaded(
+        prayerTimes,
+        nextPrayerName: nextPrayerName,
+        nextPrayerTime: nextPrayerTime,
+      ));
     } catch (e, stackTrace) {
       debugPrint('❌ Failed to load prayer times:');
       debugPrint('   Error type: ${e.runtimeType}');

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:quran_azkar/core/routing/app_router.dart';
 import 'package:quran_azkar/core/routing/routes.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -15,8 +15,8 @@ class Quran extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocProvider(
       create: (_) => SettingsCubit(),
-      child: ScreenUtilInit(
-        designSize: const Size(375, 812),
+      child: ScreenUtilPlusInit(
+        designSize: const Size(375, 884),
         minTextAdapt: true,
         splitScreenMode: true,
         child: BlocBuilder<SettingsCubit, SettingsState>(

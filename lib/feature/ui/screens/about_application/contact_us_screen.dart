@@ -1,7 +1,7 @@
 // ignore_for_file: use_build_context_synchronously
 
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:quran_azkar/core/helpers/padding.dart';
 import 'package:quran_azkar/core/theming/font_weght.dart';

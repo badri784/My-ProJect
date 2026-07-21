@@ -8,8 +8,14 @@ class PrayerTimeLoading extends PrayerTimeState {}
 
 class PrayerTimeLoaded extends PrayerTimeState {
   final PrayerTimes prayerTimes;
+  final String nextPrayerName;
+  final DateTime? nextPrayerTime;
 
-  PrayerTimeLoaded(this.prayerTimes);
+  PrayerTimeLoaded(
+    this.prayerTimes, {
+    required this.nextPrayerName,
+    required this.nextPrayerTime,
+  });
 }
 
 class PrayerTimeError extends PrayerTimeState {

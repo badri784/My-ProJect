@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:quran_azkar/core/helpers/padding.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
 import 'package:quran_azkar/core/theming/font_weght.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:quran_azkar/core/utils/responsive_helper.dart';
 import 'package:quran_azkar/feature/ui/screens/quran/cubit/quran_cubit.dart';
 import 'package:quran_azkar/feature/ui/screens/quran/widget/list_view_widget.dart';
 import 'package:quran_azkar/feature/ui/screens/quran/widget/search_text.dart';
@@ -24,7 +25,7 @@ class QuranScreen extends StatelessWidget {
           S.of(context).appTitle,
           style: TextStyle(
             color: isDark ? Colors.white : Colors.black,
-            fontSize: 26.sp,
+            fontSize: 26.clampSp(),
             fontWeight: FontWeightManger.extraBold,
           ),
         ),

@@ -1,16 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:quran_azkar/core/helpers/extension.dart';
 import 'package:quran_azkar/core/helpers/padding.dart';
 import 'package:quran_azkar/core/routing/routes.dart';
 import 'package:quran_azkar/core/theming/colors.dart';
-import 'package:quran_azkar/feature/ui/on_boarding/widget/on_boarding_botton.dart';
-import 'package:quran_azkar/feature/ui/on_boarding/widget/on_boarding_text.dart';
+import 'package:quran_azkar/core/theming/text_styles.dart';
+import 'package:quran_azkar/feature/on_boarding/widget/on_boarding_botton.dart';
+import 'package:quran_azkar/generated/l10n.dart';
 
-import '../../../generated/l10n.dart';
-
-class OnBoardinScreen extends StatelessWidget {
-  const OnBoardinScreen({super.key});
+class OnBordingScrennTwo extends StatelessWidget {
+  const OnBordingScrennTwo({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -29,17 +28,27 @@ class OnBoardinScreen extends StatelessWidget {
                       height: 115.h,
                       width: 115.w,
                       decoration: BoxDecoration(
-                        color: ColorsManger.backgroundGray,
+                        color: ColorsManger.backgroundYellow,
                         borderRadius: BorderRadius.circular(35),
                       ),
                       child: Icon(
-                        Icons.import_contacts,
-                        color: ColorsManger.lightGreen,
+                        Icons.sunny,
+                        color: ColorsManger.yellow,
                         size: 60.sp,
                       ),
                     ),
                     verticalSpace(30),
-                    const OnBoardingText(),
+                    Text('مميزات التطبيق', style: TextStyles.font26BlckBold),
+                    Text(
+                      S.of(context).evrrythingYouNeedInOnePlace,
+                      style: TextStyles.font18YellowRegular,
+                    ),
+                    verticalSpace(12),
+                    Text(
+                      S.of(context).textThreeOnBoardingScreenTwo,
+                      textAlign: TextAlign.center,
+                      style: TextStyles.font15BlackRegular,
+                    ),
                   ],
                 ),
               ),
@@ -48,7 +57,7 @@ class OnBoardinScreen extends StatelessWidget {
             /// الزرار تحت
             OnBoardingBotton(
               onPressed: () {
-                context.pushReplacementName(Routes.onBoardingTwo);
+                context.pushReplacementName(Routes.onBoardingThree);
               },
               text: Row(
                 mainAxisAlignment: MainAxisAlignment.center,

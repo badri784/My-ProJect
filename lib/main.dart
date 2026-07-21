@@ -5,6 +5,7 @@ import 'package:quran_azkar/quran.dart';
 import 'package:quran_azkar/simble_bloc.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   Bloc.observer = SimbleBloc();
   runApp(Quran(AppRouter()));
 }

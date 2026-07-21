@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:quran_azkar/core/helpers/extension.dart';
 import 'package:quran_azkar/feature/widget/leading_icon_widget.dart';
 import 'package:quran_azkar/feature/widget/list_tile_widget.dart';

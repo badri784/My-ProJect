@@ -3,9 +3,9 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quran_azkar/core/routing/routes.dart';
 
 import '../../feature/logic/cubit/all_surahs_cubit.dart';
-import '../../feature/ui/on_boarding/on_boardin_screen.dart';
-import '../../feature/ui/on_boarding/on_boarding_screen_three.dart';
-import '../../feature/ui/on_boarding/on_bording_screnn_two.dart';
+import '../../feature/on_boarding/on_boardin_screen.dart';
+import '../../feature/on_boarding/on_boarding_screen_three.dart';
+import '../../feature/on_boarding/on_bording_screnn_two.dart';
 import '../../feature/ui/screens/about_application/contact_us_screen.dart';
 import '../../feature/ui/screens/about_application/privacy_policy_screen.dart';
 import '../../feature/ui/screens/about_application/terms_and_conditions_screen.dart';
