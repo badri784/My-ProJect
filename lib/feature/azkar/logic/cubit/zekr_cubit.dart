@@ -2,7 +2,7 @@
 import 'package:quran_azkar/core/model/azkar_model.dart';
 import 'package:quran_azkar/feature/azkar/logic/cubit/zekr_state.dart';
 
-import 'package:quran_azkar/core/service/service.dart';
+import '../../../../core/service/service.dart';
 
 class ZekrCubit extends Cubit<ZekrState> {
   final Service _service = Service();

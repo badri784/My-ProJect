@@ -1,11 +1,10 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quran_azkar/core/model/azkar_model.dart';
 import 'package:quran_azkar/feature/azkar/ui/widgets/zekr_card_widget.dart';
-import 'package:quran_azkar/generated/l10n.dart';
-
 import 'package:quran_azkar/feature/settings/logic/cubit/settings_cubit.dart';
+import 'package:quran_azkar/generated/l10n.dart';
 
 class ZekrCard extends StatefulWidget {
   ZekrCard({super.key, required this.zekr});

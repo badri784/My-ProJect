@@ -7,7 +7,7 @@ import 'package:quran_azkar/core/theming/colors.dart';
 import 'package:quran_azkar/feature/on_boarding/ui/widgets/on_boarding_botton.dart';
 import 'package:quran_azkar/feature/on_boarding/ui/widgets/on_boarding_text.dart';
 
-import 'package:quran_azkar/generated/l10n.dart';
+import '../../../generated/l10n.dart';
 
 class OnBoardinScreen extends StatelessWidget {
   const OnBoardinScreen({super.key});

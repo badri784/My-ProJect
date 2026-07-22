@@ -5,113 +5,254 @@
 <h1 align="center">Quran & Azkar | القرآن والأذكار</h1>
 
 <p align="center">
+  <em>تطبيق إسلامي شامل — القرآن الكريم، الأذكار اليومية، مواقيت الصلاة، اتجاه القبلة، السبحة الإلكترونية والمزيد</em>
+</p>
+
+<p align="center">
   A comprehensive Islamic companion app built with Flutter — Quran reading, daily Azkar, prayer times, Qibla direction, Sebha counter, and more.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart" alt="Dart"/>
-  <img src="https://img.shields.io/badge/State_Management-BLoC-blueviolet" alt="BLoC"/>
-  <img src="https://img.shields.io/badge/Platforms-Android_|_iOS-green" alt="Platforms"/>
-  <img src="https://img.shields.io/badge/Localization-Arabic_|_English-orange" alt="Localization"/>
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-3.11+-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/BLoC-Cubit_Pattern-blueviolet?style=for-the-badge" alt="BLoC"/>
+  <img src="https://img.shields.io/badge/Platforms-Android_|_iOS-34a853?style=for-the-badge" alt="Platforms"/>
+  <img src="https://img.shields.io/badge/Languages-العربية_|_English-f59e0b?style=for-the-badge" alt="Localization"/>
 </p>
 
 ---
 
 ## ✨ Features
 
+<table>
+  <tr>
+    <td width="50%">
+
 ### 📖 Quran Reader
 - Browse and read all **114 Surahs** with full Arabic text
 - Navigate by Surah name, number, or verse
-- Powered by the [`quran`](https://pub.dev/packages/quran) package for accurate Quran data
+- Beautiful Amiri Quran typography
+- Powered by the [`quran`](https://pub.dev/packages/quran) package
+
+</td>
+<td width="50%">
 
 ### 🤲 Azkar (Remembrances)
-- **Morning Azkar** — Start your day with remembrance of Allah
-- **Evening Azkar** — End your day with remembrance
-- **After Prayer Azkar** — Post-Salah remembrances
-- **Sleep Azkar** — Bedtime supplications
-- Each Zikr includes repetition counter, reference, and notes
-- Visual indicator when repetitions are completed ✅
+- **Morning Azkar** — أذكار الصباح
+- **Evening Azkar** — أذكار المساء
+- **After Prayer Azkar** — أذكار بعد الصلاة
+- **Sleep Azkar** — أذكار النوم
+- Repetition counter with completion indicator ✅
+- Hadith references & notes for each Zikr
+
+</td>
+  </tr>
+  <tr>
+    <td>
 
 ### 🕌 Prayer Times
-- Automatic prayer time calculation based on **GPS location**
-- Supports all five daily prayers + Sunrise
-- Uses the **Egyptian General Authority of Survey** calculation method
-- Displays next prayer with a countdown indicator
-- Dark & light mode support
+- GPS-based automatic prayer time calculation
+- All five daily prayers + Sunrise
+- **Egyptian General Authority of Survey** method
+- Next prayer countdown indicator
+- Responsive layout for all screen sizes
+
+</td>
+<td>
 
 ### 🧭 Qibla Compass
 - Real-time Qibla direction using device sensors
-- Interactive compass UI powered by [`flutter_qiblah`](https://pub.dev/packages/flutter_qiblah)
+- Interactive compass UI
+- Powered by [`flutter_qiblah`](https://pub.dev/packages/flutter_qiblah)
+
+</td>
+  </tr>
+  <tr>
+    <td>
 
 ### 📿 Sebha (Digital Tasbeeh)
-- Tap-to-count digital counter with a beautiful circular UI
-- Dropdown selector for common Azkar (SubhanAllah, Alhamdulillah, Allahu Akbar, etc.)
-- **Persistent count** — saved to local storage via `SharedPreferences`
+- Tap-to-count with circular UI
+- Preset Azkar selector (سبحان الله، الحمد لله، الله أكبر…)
+- **Persistent count** via `SharedPreferences`
 - Total count tracking across sessions
-- Reset current count or reset all
+- Reset current or reset all
+
+</td>
+<td>
 
 ### ⚖️ Ahkam (Islamic Rulings)
 - Browse Islamic rulings and Q&A
+- Local JSON data source
 
-### ⚙️ Settings
-- **Dark / Light mode** support
-- **Language switching** — Arabic 🇸🇦 & English 🇬🇧
-- About, Privacy Policy, Terms & Conditions, Contact Us pages
+</td>
+  </tr>
+</table>
+
+### ⚙️ Additional Features
+- 🎨 **Dark / Light Mode** — with persisted preference
+- 🌐 **Bilingual** — Arabic 🇸🇦 & English 🇬🇧 with toggle
+- 📱 **Onboarding** — 3-step introduction screens
+- 📄 About, Privacy Policy, Terms & Conditions, Contact Us pages
+- 🔄 **Responsive Design** — Adapts layout for phones & tablets
 
 ---
 
 ## 🏗️ Architecture
 
-The project follows a **clean, feature-based architecture** with clear separation of concerns:
+The project follows a **feature-based clean architecture** with clear separation between UI and business logic using the **Cubit pattern**:
 
 ```
 lib/
-├── core/                    # Shared utilities & configuration
-│   ├── helpers/             # Extensions, padding helpers
-│   ├── model/               # Data models (Zekr, etc.)
-│   ├── routing/             # App router & route definitions
-│   ├── service/             # Services layer
-│   └── theming/             # Colors, text styles, font weights
+├── main.dart                              # Entry point
+├── quran.dart                             # Root widget (MaterialApp + SettingsCubit)
+├── simble_bloc.dart                       # Custom BLoC observer
+│
+├── core/
+│   ├── helpers/
+│   │   ├── extension.dart                 # Dart extensions
+│   │   └── padding.dart                   # verticalSpace / horizontalSpace helpers
+│   ├── model/
+│   │   ├── azkar_model.dart               # AllAzkar model (fromJson / toJson)
+│   │   └── ahkam_model.dart               # Ahkam data model
+│   ├── routing/
+│   │   ├── routes.dart                    # Route name constants
+│   │   └── app_router.dart                # onGenerateRoute (switch-case routing)
+│   ├── service/
+│   │   └── service.dart                   # Services layer
+│   ├── theming/
+│   │   ├── colors.dart                    # ColorsManger — full color palette
+│   │   ├── font_weght.dart                # FontWeightManger — weight constants
+│   │   └── text_styles.dart               # TextStyles — Google Fonts (Almarai, Amiri)
+│   └── utils/
+│       └── responsive_helper.dart         # Responsive breakpoint utilities
 │
 ├── feature/
-│   ├── logic/               # Business logic (Cubits)
-│   │   └── cubit/           # PrayerTimeCubit, SettingsCubit
-│   ├── ui/
-│   │   └── screens/
-│   │       ├── home/        # Home screen + widgets
-│   │       ├── quran/       # Quran reader (screen, cubit, widgets)
-│   │       ├── azkar/       # Azkar screens (morning, evening, etc.)
-│   │       ├── sebha/       # Sebha counter (screen, cubit, widgets)
-│   │       ├── qibla/       # Qibla compass
-│   │       ├── ahkam/       # Islamic rulings
-│   │       ├── settings/    # App settings
-│   │       └── about_application/
-│   └── widget/              # Shared/reusable widgets
+│   ├── home/
+│   │   ├── logic/cubit/                   # Prayer time cubit
+│   │   ├── ui/home_screen.dart            # Main home screen
+│   │   └── ui/widgets/                    # AppBar, prayer times, grid views,
+│   │       └── next_prayer_container/     #   next prayer countdown widget
+│   │
+│   ├── quran/
+│   │   ├── logic/cubit/                   # QuranCubit, AllSurahsCubit
+│   │   └── ui/
+│   │       ├── quran_screen.dart          # Surah list browser
+│   │       ├── surah_screen.dart          # Individual surah reader
+│   │       └── widgets/                   # Quran-specific widgets
+│   │
+│   ├── azkar/
+│   │   ├── logic/cubit/                   # Azkar state management
+│   │   └── ui/
+│   │       ├── azkar_screen.dart          # Azkar category selection
+│   │       ├── moorning.dart              # أذكار الصباح
+│   │       ├── evening.dart               # أذكار المساء
+│   │       ├── post_pryar.dart            # أذكار بعد الصلاة
+│   │       ├── sleeping.dart              # أذكار النوم
+│   │       └── widgets/                   # Shared Azkar widgets
+│   │
+│   ├── sebha/
+│   │   ├── logic/cubit/                   # Sebha counter cubit
+│   │   └── ui/sebha_screen.dart           # Digital Tasbeeh screen
+│   │
+│   ├── qibla/
+│   │   └── ui/qibla_screen.dart           # Qibla compass screen
+│   │
+│   ├── ahkam/
+│   │   └── ui/ahkam_screen.dart           # Islamic rulings screen
+│   │
+│   ├── settings/
+│   │   ├── logic/cubit/
+│   │   │   └── settings_cubit.dart        # Theme, locale, font scale management
+│   │   └── ui/                            # Settings screen
+│   │
+│   ├── on_boarding/
+│   │   └── ui/                            # 3-step onboarding screens + widgets
+│   │
+│   ├── about_application/
+│   │   ├── ui/                            # About, Privacy, Terms, Contact screens
+│   │   └── widget/                        # Shared about widgets
+│   │
+│   └── shared/
+│       └── widgets/
+│           ├── bottom_navigation.dart     # Main bottom navigation bar
+│           ├── card_widget.dart           # Reusable card component
+│           ├── leading_icon_widget.dart   # Icon widget
+│           ├── list_tile_widget.dart      # Custom list tile
+│           └── snackbar_widget.dart       # Snackbar component
 │
-├── generated/               # Auto-generated localization files
-├── l10n/                    # Localization source (intl_ar.arb, intl_en.arb)
-└── quran.dart               # App root widget (MaterialApp)
+├── generated/                             # Auto-generated localization (intl)
+└── l10n/
+    ├── intl_ar.arb                        # Arabic translations
+    └── intl_en.arb                        # English translations
+```
+
+### Assets
+
+```
+assets/
+├── azkar/
+│   ├── morning_azkar_data.json            # أذكار الصباح (14KB)
+│   ├── evening_azkar.json                 # أذكار المساء
+│   ├── post_pryar_azkar.json              # أذكار بعد الصلاة
+│   └── sleeping_azkar.json                # أذكار النوم
+├── ahkam/                                 # Islamic rulings data
+├── image/
+│   ├── app_icon.png                       # App icon
+│   └── splash.png                         # Splash screen image
+└── quran_pages/                           # Quran page assets
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technology |
-|----------|-----------|
-| **Framework** | Flutter 3.x |
-| **Language** | Dart 3.x |
-| **State Management** | [flutter_bloc](https://pub.dev/packages/flutter_bloc) (Cubit pattern) |
-| **Prayer Times** | [adhan](https://pub.dev/packages/adhan) |
-| **Location** | [geolocator](https://pub.dev/packages/geolocator) |
-| **Qibla** | [flutter_qiblah](https://pub.dev/packages/flutter_qiblah) |
-| **Quran Data** | [quran](https://pub.dev/packages/quran) |
-| **Localization** | [intl](https://pub.dev/packages/intl) + flutter_localizations |
-| **Fonts** | [google_fonts](https://pub.dev/packages/google_fonts) |
-| **Responsive UI** | [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) |
-| **Local Storage** | [shared_preferences](https://pub.dev/packages/shared_preferences) |
-| **Icons** | Material Icons + [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) |
+| Category | Package | Version | Purpose |
+|----------|---------|---------|---------|
+| **Framework** | Flutter | 3.x | Cross-platform mobile UI |
+| **Language** | Dart | ^3.11.0 | Application language |
+| **State Management** | [`flutter_bloc`](https://pub.dev/packages/flutter_bloc) | ^9.1.1 | Cubit pattern for all state |
+| **Prayer Times** | [`adhan`](https://pub.dev/packages/adhan) | ^2.0.0+1 | Accurate prayer time calculations |
+| **Location** | [`geolocator`](https://pub.dev/packages/geolocator) | ^14.0.2 | GPS coordinates |
+| **Qibla** | [`flutter_qiblah`](https://pub.dev/packages/flutter_qiblah) | ^3.2.0 | Qibla compass direction |
+| **Quran Data** | [`quran`](https://pub.dev/packages/quran) | ^1.4.1 | Full Quran text & metadata |
+| **Localization** | [`intl`](https://pub.dev/packages/intl) | ^0.20.2 | i18n (Arabic ↔ English) |
+| **Fonts** | [`google_fonts`](https://pub.dev/packages/google_fonts) | ^8.0.2 | Almarai, Amiri, Amiri Quran |
+| **Responsive UI** | [`flutter_screenutil_plus`](https://pub.dev/packages/flutter_screenutil_plus) | ^1.5.0 | Adaptive sizing (375×884) |
+| **SVG** | [`flutter_svg`](https://pub.dev/packages/flutter_svg) | ^2.2.3 | SVG rendering |
+| **Storage** | [`shared_preferences`](https://pub.dev/packages/shared_preferences) | ^2.5.5 | Persist settings & Sebha count |
+| **URLs** | [`url_launcher`](https://pub.dev/packages/url_launcher) | ^6.3.2 | Open external links |
+| **Icons** | [`font_awesome_flutter`](https://pub.dev/packages/font_awesome_flutter) | ^11.0.0 | Extended icon set |
+| **Loading** | [`loading_animation_widget`](https://pub.dev/packages/loading_animation_widget) | ^1.3.0 | Loading animations |
+| **App Icon** | [`flutter_launcher_icons`](https://pub.dev/packages/flutter_launcher_icons) | ^0.14.4 | Platform app icons |
+| **Splash** | [`flutter_native_splash`](https://pub.dev/packages/flutter_native_splash) | ^2.4.7 | Native splash screen |
+
+---
+
+## 🎨 Design System
+
+### Color Palette
+
+| Token | Hex | Usage |
+|-------|-----|-------|
+| `backgroundDark` | `#121212` | Dark mode background |
+| `backgroundWhite` | `#F7F5F1` | Light mode background |
+| `greenDark` | `#0E4128` | Primary accent (dark) |
+| `greenLight` | `#347C60` | Primary accent (light) |
+| `darkGreen` | `#005A30` | Deep green |
+| `lightGreen` | `#186942` | Secondary green |
+| `yellow` | `#E0AF3B` | Warm accent |
+| `yellowLight` | `#FFB300` | Amber highlight |
+| `offWhite` | `#EBEDE5` | Subtle background |
+
+### Typography
+
+| Font | Usage |
+|------|-------|
+| **Almarai** | Arabic body text, UI labels |
+| **Amiri** | Arabic headings, Azkar titles |
+| **Amiri Quran** | Quranic verses |
+
+All sizes use `flutter_screenutil_plus` with `.sp` units for responsive scaling.
 
 ---
 
@@ -120,7 +261,8 @@ lib/
 ### Prerequisites
 
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (3.x or later)
-- Android Studio / VS Code with Flutter extension
+- Dart SDK ^3.11.0
+- Android Studio / VS Code with Flutter & Dart extensions
 - A physical device or emulator
 
 ### Installation
@@ -146,7 +288,7 @@ flutter run
 # Android APK
 flutter build apk --release
 
-# Android App Bundle
+# Android App Bundle (Google Play)
 flutter build appbundle --release
 
 # iOS
@@ -157,38 +299,41 @@ flutter build ios --release
 
 ## 🌐 Localization
 
-The app supports **Arabic** and **English**. Localization files are located in `lib/l10n/`:
+The app fully supports **Arabic** (default) and **English**. Localization is powered by the `intl` package with `.arb` files:
 
-| File | Language |
-|------|---------|
-| `intl_ar.arb` | Arabic 🇸🇦 |
-| `intl_en.arb` | English 🇬🇧 |
+| File | Language | Size |
+|------|----------|------|
+| `lib/l10n/intl_ar.arb` | Arabic 🇸🇦 | ~6.7 KB |
+| `lib/l10n/intl_en.arb` | English 🇬🇧 | ~5.4 KB |
 
-To add a new language, create a new `.arb` file and run:
-```bash
-flutter pub run intl_utils:generate
-```
+Users can toggle languages from **Settings** at any time. The preference is persisted via `SharedPreferences`.
+
+**To add a new language:**
+1. Create a new `.arb` file (e.g., `intl_fr.arb`) in `lib/l10n/`
+2. Run: `flutter pub run intl_utils:generate`
+3. Add the locale to `supportedLocales` in `quran.dart`
 
 ---
 
 ## 🎨 Theming
 
-The app supports **Dark Mode** and **Light Mode** with a carefully crafted color palette:
+The app supports **Dark Mode** (default) and **Light Mode** with a carefully crafted color palette:
 
-- **Dark Mode**: Deep dark backgrounds with subtle white overlays and amber accents
-- **Light Mode**: Clean off-white backgrounds with green accent colors
-- Typography powered by **Google Fonts** (Cairo, Amiri Quran)
+| Mode | Background | Accent | Typography |
+|------|-----------|--------|------------|
+| 🌙 **Dark** | Deep dark `#121212` | Green `#0E4128` + Amber `#FFB300` | White text |
+| ☀️ **Light** | Off-white `#F7F5F1` | Green `#347C60` + Yellow `#E0AF3B` | Dark text |
+
+Theme preference is managed by `SettingsCubit` and persisted across sessions.
 
 ---
 
 ## 📱 Permissions
 
-The app requires the following permissions:
-
 | Permission | Purpose |
 |-----------|---------|
-| **Location** | Calculate accurate prayer times & Qibla direction |
-| **Internet** | Load Google Fonts |
+| 📍 **Location** | Calculate accurate prayer times & Qibla direction based on GPS |
+| 🌐 **Internet** | Load Google Fonts & external resources |
 
 ---
 

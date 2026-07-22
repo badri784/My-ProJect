@@ -1,5 +1,4 @@
 ﻿import 'package:flutter/material.dart';
-
 import 'package:quran_azkar/generated/l10n.dart';
 
 class TermsAndConditionsScreen extends StatelessWidget {

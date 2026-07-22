@@ -1,9 +1,9 @@
 ﻿import 'package:flutter/material.dart';
+// import 'package:quran/quran.dart' a  s quran;
 import 'package:quran_azkar/core/helpers/padding.dart';
-// import 'package:quran/quran.dart' as quran;
 import 'package:quran_azkar/feature/home/ui/widgets/app_bar_in_home_screen.dart';
-import 'package:quran_azkar/feature/home/ui/widgets/next_prayer_container/container_next_prayer_builder.dart';
 // import 'package:quran_azkar/feature/home/ui/widgets/container_in_home_screen.dart';
+import 'package:quran_azkar/feature/home/ui/widgets/next_prayer_container/container_next_prayer_builder.dart';
 import 'package:quran_azkar/feature/home/ui/widgets/prayer_time_widget.dart';
 import 'package:quran_azkar/feature/home/ui/widgets/return_five_grid_view.dart';
 import 'package:quran_azkar/feature/home/ui/widgets/return_two_grid_view.dart';
@@ -24,8 +24,9 @@ class HomeScreen extends StatelessWidget {
             children: [
               verticalSpace(18),
               const ConrtainerOfNextPrayreBuilder(),
-              // ContainerInHomeScreen(randomayah: randomayah),
               verticalSpace(10),
+              // ContainerInHomeScreen(randomayah: randomayah),
+              // verticalSpace(10),
               const PrayerTimeWidget(),
               LayoutBuilder(
                 builder: (context, constrained) {

@@ -7,7 +7,6 @@ import 'package:quran_azkar/feature/quran/logic/cubit/quran_cubit.dart';
 import 'package:quran_azkar/feature/quran/ui/quran_screen.dart';
 import 'package:quran_azkar/feature/sebha/ui/sebha_screen.dart';
 import 'package:quran_azkar/feature/settings/ui/settings_screen.dart';
-
 import 'package:quran_azkar/generated/l10n.dart';
 
 class BottonNavigation extends StatefulWidget {
@@ -53,9 +52,9 @@ class _BottonNavigationState extends State<BottonNavigation> {
         },
         items: [
           BottomNavigationBarItem(
-            icon: Icon(
+            icon: const Icon(
               Icons.home_outlined,
-              color: isDarkMode ? ColorsManger.white : ColorsManger.black,
+              // color: isDarkMode ? ColorsManger.white : ColorsManger.black,
             ),
 
             label: S.of(context).home,
